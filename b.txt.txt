@@ -1,0 +1,43 @@
+1. -
+2. git remote add repo https://github.com/repo ausprobieren
+   git remote add LearnGitC https://github.com/tco2019/LearnGitC
+3. git remote -v show https://github.com/tco2019/Nvidia_Learn
+   hat funktioniert.
+4. git remote
+   wechselt auf LearnGitC
+5,
+git Repository auf github.com anlegen - z.B.: Projekt
+git remote add origin https://github.com/<user>/Projekt
+git push --set-upstream origin master
+6,
+echo "# -LearnGitC" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin git@github.com:tco2019/-LearnGitC.git
+git push -u origin master
+7,
+git remote add origin git@github.com:tco2019/-LearnGitC.git
+git push -u origin master
+8. ich nehme den Punkt 7.
+
+Problem:
+$ git push -u origin master
+The authenticity of host 'github.com (140.82.118.4)' can't be established.
+RSA key fingerprint is SHA256:nThbg6kXUpJWGl7E1IGOCspRomTxdCARLviKw6E5SY8.
+Are you sure you want to continue connecting (yes/no/[fingerprint])? yes
+Warning: Permanently added 'github.com,140.82.118.4' (RSA) to the list of known hosts.
+git@github.com: Permission denied (publickey).
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+
+    
+ 10.
+ ssh-keygen -t rsa -b 4096 -C "tc0.0x1@gmail.com"
+ eval $(ssh-agent -s)
+ ls ~/.ssh/id_rsa
+ ssh-add ~/.ssh/id_rsa
+ clip < ~/.ssh/id_rsa.pub
+
