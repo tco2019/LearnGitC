@@ -1,0 +1,10946 @@
+{
+	"status": "succeeded",
+	"createdDateTime": "2022-11-24T20:17:10Z",
+	"lastUpdatedDateTime": "2022-11-24T20:17:20Z",
+	"analyzeResult": {
+		"apiVersion": "2022-08-31",
+		"modelId": "Abstract",
+		"stringIndexType": "utf16CodeUnit",
+		"content": "medRxiv preprint doi: https://doi.org/10.1101/2020.09.25.20201616; this version posted September 27, 2020. The copyright holder for this preprint (which was not certified by peer review) is the author/funder, who has granted medRxiv a license to display the preprint in perpetuity. It is made available under a CC-BY-NC-ND 4.0 International license .\nCOVID-19 in Youth Soccer\nAndrew M. Watson, MD, MS, Kristin Haraldsdottir, PhD,1 Kevin Biese, MS,2 Leslie Goodavish, PA,1 Bethany Stevens,2 Timothy McGuine, PhD, LAT1\nFrom the Department of Orthopedics and Rehabilitation,\" University of Wisconsin School of Medicine and Public Health, Madison, WI, and The Department of Kinesiology,2 University of Wisconsin - Madison\nAddress for Correspondence:\nAndrew Watson Department of Orthopedics and Rehabilitation, Division of Sports Medicine 1685 Highland Avenue Madison, WI 53705 Phone: (608) 263-6477 Fax: (608) 263-0503 Email: Watson@ortho.wisc.edu\nNOTE: This preprint reports new research that has not been certified by peer review and should not be used to guide clinical practice.\nmedRxiv preprint doi: https://doi.org/10.1101/2020.09.25.20201616; this version posted September 27, 2020. The copyright holder for this preprint (which was not certified by peer review) is the author/funder, who has granted medRxiv a license to display the preprint in perpetuity.\nIt is made available under a CC-BY-NC-ND 4.0 International license .\nABSTRACT\nPurpose: The purpose of this study was to determine the case and incidence rates of COVID-19 among youth soccer players and evaluate the relationship with background COVID-19 risk and phase of return to play.\nMethods: Surveys were distributed to soccer clubs throughout the country regarding their phase of return to soccer (individual only, group non-contact, group contact) and date of reinitiation, number of players, cases of COVID-19, and risk reduction procedures that were being implemented. Overall case and incidence rates were compared to national pediatric data and county data from the prior 10 weeks where available. Finally, a negative binomial regression model was developed to predict club COVID-19 cases with local incidence rate and phase of return as covariates and the log of club player-days as an offset.\nResults: 129 clubs responded, of whom 124 had reinitiated soccer, representing 91,007 players with a median duration of 73 days (IQR: 53-83 days) since restarting. Of the 119 that had progressed to group activities, 218 cases of COVID-19 were reported among 85,861 players. Youth soccer players had a lower case rate and incidence rate than the national rate for children in the US (254 v. 477 cases per 100,000; IRR = 0.511, 95% CI = [0.40-0.57], p<0.001) and the general population from the counties in which soccer clubs were based where data was available (268 v. 864 cases per 100,000; IRR = 0.202 [0.19-0.21], p<0.001). After adjusting for local COVID-19 incidence, there was no relationship between club COVID-19 incidence and phase of return (non-contact: ß=0.35+0.67, p=0.61; contact: ß=0.18+0.67, p=0.79). No cases were reported to have resulted in hospitalization or death. 100% of clubs reported having a plan in place to reduce the risk of COVID-19 and utilizing multiple different risk reduction procedures (median 8, IQR 6- 10).\nConclusions: The incidence of COVID-19 among youth soccer athletes is relatively low when compared to\nthe background incidence among children in the United States and the local general population. No\nrelationship was identified between club COVID-19 incidence and phase of return to soccer. Youth soccer clubs universally report implementing a number of risk reduction procedures.",
+		"pages": [
+			{
+				"pageNumber": 1,
+				"angle": 0,
+				"width": 8.5,
+				"height": 11,
+				"unit": "inch",
+				"words": [
+					{
+						"content": "medRxiv",
+						"polygon": [
+							0.8548,
+							0.0286,
+							1.2798,
+							0.0286,
+							1.2846,
+							0.148,
+							0.8596,
+							0.148
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 0,
+							"length": 7
+						}
+					},
+					{
+						"content": "preprint",
+						"polygon": [
+							1.3037,
+							0.0286,
+							1.6904,
+							0.0286,
+							1.6952,
+							0.148,
+							1.3084,
+							0.148
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 8,
+							"length": 8
+						}
+					},
+					{
+						"content": "doi:",
+						"polygon": [
+							1.7143,
+							0.0286,
+							1.9053,
+							0.0286,
+							1.9101,
+							0.148,
+							1.7191,
+							0.148
+						],
+						"confidence": 0.991,
+						"span": {
+							"offset": 17,
+							"length": 4
+						}
+					},
+					{
+						"content": "https://doi.org/10.1101/2020.09.25.20201616;",
+						"polygon": [
+							1.9292,
+							0.0286,
+							4.1831,
+							0.0286,
+							4.1879,
+							0.1432,
+							1.934,
+							0.148
+						],
+						"confidence": 0.847,
+						"span": {
+							"offset": 22,
+							"length": 44
+						}
+					},
+					{
+						"content": "this",
+						"polygon": [
+							4.207,
+							0.0286,
+							4.3885,
+							0.0286,
+							4.3933,
+							0.1432,
+							4.2118,
+							0.1432
+						],
+						"confidence": 0.991,
+						"span": {
+							"offset": 67,
+							"length": 4
+						}
+					},
+					{
+						"content": "version",
+						"polygon": [
+							4.4124,
+							0.0286,
+							4.7753,
+							0.0286,
+							4.7801,
+							0.1432,
+							4.4171,
+							0.1432
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 72,
+							"length": 7
+						}
+					},
+					{
+						"content": "posted",
+						"polygon": [
+							4.7992,
+							0.0286,
+							5.143,
+							0.0286,
+							5.143,
+							0.1432,
+							4.8039,
+							0.1432
+						],
+						"confidence": 0.996,
+						"span": {
+							"offset": 80,
+							"length": 6
+						}
+					},
+					{
+						"content": "September",
+						"polygon": [
+							5.1669,
+							0.0286,
+							5.7208,
+							0.0286,
+							5.7208,
+							0.148,
+							5.1669,
+							0.1432
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 87,
+							"length": 9
+						}
+					},
+					{
+						"content": "27,",
+						"polygon": [
+							5.7447,
+							0.0286,
+							5.9022,
+							0.0239,
+							5.9022,
+							0.148,
+							5.7447,
+							0.148
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 97,
+							"length": 3
+						}
+					},
+					{
+						"content": "2020.",
+						"polygon": [
+							5.9261,
+							0.0239,
+							6.227,
+							0.0239,
+							6.227,
+							0.148,
+							5.9261,
+							0.148
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 101,
+							"length": 5
+						}
+					},
+					{
+						"content": "The",
+						"polygon": [
+							6.2508,
+							0.0239,
+							6.4323,
+							0.0239,
+							6.4323,
+							0.148,
+							6.2508,
+							0.148
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 107,
+							"length": 3
+						}
+					},
+					{
+						"content": "copyright",
+						"polygon": [
+							6.4562,
+							0.0239,
+							6.9146,
+							0.0239,
+							6.9146,
+							0.148,
+							6.4562,
+							0.148
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 111,
+							"length": 9
+						}
+					},
+					{
+						"content": "holder",
+						"polygon": [
+							6.9385,
+							0.0239,
+							7.2537,
+							0.0239,
+							7.2537,
+							0.148,
+							6.9385,
+							0.148
+						],
+						"confidence": 0.996,
+						"span": {
+							"offset": 121,
+							"length": 6
+						}
+					},
+					{
+						"content": "for",
+						"polygon": [
+							7.2775,
+							0.0239,
+							7.4208,
+							0.0239,
+							7.4208,
+							0.148,
+							7.2775,
+							0.148
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 128,
+							"length": 3
+						}
+					},
+					{
+						"content": "this",
+						"polygon": [
+							7.4447,
+							0.0239,
+							7.6309,
+							0.0239,
+							7.6309,
+							0.148,
+							7.4447,
+							0.148
+						],
+						"confidence": 0.987,
+						"span": {
+							"offset": 132,
+							"length": 4
+						}
+					},
+					{
+						"content": "preprint",
+						"polygon": [
+							0.6829,
+							0.1337,
+							1.0935,
+							0.1337,
+							1.0935,
+							0.2626,
+							0.6781,
+							0.2626
+						],
+						"confidence": 0.992,
+						"span": {
+							"offset": 137,
+							"length": 8
+						}
+					},
+					{
+						"content": "(which",
+						"polygon": [
+							1.1174,
+							0.1337,
+							1.4756,
+							0.1337,
+							1.4708,
+							0.2626,
+							1.1174,
+							0.2626
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 146,
+							"length": 6
+						}
+					},
+					{
+						"content": "was",
+						"polygon": [
+							1.4994,
+							0.1337,
+							1.7143,
+							0.1337,
+							1.7143,
+							0.2626,
+							1.4994,
+							0.2626
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 153,
+							"length": 3
+						}
+					},
+					{
+						"content": "not",
+						"polygon": [
+							1.7382,
+							0.1337,
+							1.9197,
+							0.1337,
+							1.9197,
+							0.2626,
+							1.7382,
+							0.2626
+						],
+						"confidence": 0.998,
+						"span": {
+							"offset": 157,
+							"length": 3
+						}
+					},
+					{
+						"content": "certified",
+						"polygon": [
+							1.9483,
+							0.1337,
+							2.3829,
+							0.1337,
+							2.3829,
+							0.2626,
+							1.9435,
+							0.2626
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 161,
+							"length": 9
+						}
+					},
+					{
+						"content": "by",
+						"polygon": [
+							2.4115,
+							0.1337,
+							2.5404,
+							0.1337,
+							2.5404,
+							0.2578,
+							2.4067,
+							0.2578
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 171,
+							"length": 2
+						}
+					},
+					{
+						"content": "peer",
+						"polygon": [
+							2.5643,
+							0.1337,
+							2.8079,
+							0.1337,
+							2.8031,
+							0.2578,
+							2.5643,
+							0.2578
+						],
+						"confidence": 0.991,
+						"span": {
+							"offset": 174,
+							"length": 4
+						}
+					},
+					{
+						"content": "review)",
+						"polygon": [
+							2.8317,
+							0.1337,
+							3.2281,
+							0.1337,
+							3.2281,
+							0.2578,
+							2.8317,
+							0.2578
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 179,
+							"length": 7
+						}
+					},
+					{
+						"content": "is",
+						"polygon": [
+							3.252,
+							0.1337,
+							3.3379,
+							0.1337,
+							3.3331,
+							0.2578,
+							3.252,
+							0.2578
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 187,
+							"length": 2
+						}
+					},
+					{
+						"content": "the",
+						"polygon": [
+							3.3618,
+							0.1337,
+							3.5242,
+							0.1337,
+							3.5242,
+							0.2578,
+							3.357,
+							0.2578
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 190,
+							"length": 3
+						}
+					},
+					{
+						"content": "author/funder,",
+						"polygon": [
+							3.5528,
+							0.1337,
+							4.2452,
+							0.1385,
+							4.2452,
+							0.2578,
+							3.548,
+							0.2578
+						],
+						"confidence": 0.992,
+						"span": {
+							"offset": 194,
+							"length": 14
+						}
+					},
+					{
+						"content": "who",
+						"polygon": [
+							4.2691,
+							0.1385,
+							4.4792,
+							0.1385,
+							4.4744,
+							0.2578,
+							4.2691,
+							0.2578
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 209,
+							"length": 3
+						}
+					},
+					{
+						"content": "has",
+						"polygon": [
+							4.5031,
+							0.1385,
+							4.6941,
+							0.1385,
+							4.6893,
+							0.2578,
+							4.5031,
+							0.2578
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 213,
+							"length": 3
+						}
+					},
+					{
+						"content": "granted",
+						"polygon": [
+							4.718,
+							0.1385,
+							5.0952,
+							0.1385,
+							5.0952,
+							0.2626,
+							4.718,
+							0.2626
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 217,
+							"length": 7
+						}
+					},
+					{
+						"content": "medRxiv",
+						"polygon": [
+							5.1239,
+							0.1385,
+							5.5584,
+							0.1385,
+							5.5584,
+							0.2626,
+							5.1239,
+							0.2626
+						],
+						"confidence": 0.956,
+						"span": {
+							"offset": 225,
+							"length": 7
+						}
+					},
+					{
+						"content": "a",
+						"polygon": [
+							5.5871,
+							0.1385,
+							5.6492,
+							0.1385,
+							5.6492,
+							0.2626,
+							5.5871,
+							0.2626
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 233,
+							"length": 1
+						}
+					},
+					{
+						"content": "license",
+						"polygon": [
+							5.6778,
+							0.1385,
+							6.0312,
+							0.1385,
+							6.0312,
+							0.2626,
+							5.6778,
+							0.2626
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 235,
+							"length": 7
+						}
+					},
+					{
+						"content": "to",
+						"polygon": [
+							6.0551,
+							0.1385,
+							6.1458,
+							0.1385,
+							6.1458,
+							0.2626,
+							6.0551,
+							0.2626
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 243,
+							"length": 2
+						}
+					},
+					{
+						"content": "display",
+						"polygon": [
+							6.1697,
+							0.1385,
+							6.5278,
+							0.1385,
+							6.5278,
+							0.2674,
+							6.1744,
+							0.2626
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 246,
+							"length": 7
+						}
+					},
+					{
+						"content": "the",
+						"polygon": [
+							6.5517,
+							0.1385,
+							6.7093,
+							0.1385,
+							6.7093,
+							0.2674,
+							6.5517,
+							0.2674
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 254,
+							"length": 3
+						}
+					},
+					{
+						"content": "preprint",
+						"polygon": [
+							6.7331,
+							0.1385,
+							7.1247,
+							0.1385,
+							7.1247,
+							0.2674,
+							6.7331,
+							0.2674
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 258,
+							"length": 8
+						}
+					},
+					{
+						"content": "in",
+						"polygon": [
+							7.1486,
+							0.1385,
+							7.2393,
+							0.1385,
+							7.2393,
+							0.2674,
+							7.1486,
+							0.2674
+						],
+						"confidence": 0.998,
+						"span": {
+							"offset": 267,
+							"length": 2
+						}
+					},
+					{
+						"content": "perpetuity.",
+						"polygon": [
+							7.2632,
+							0.1385,
+							7.7933,
+							0.1432,
+							7.798,
+							0.2721,
+							7.2632,
+							0.2674
+						],
+						"confidence": 0.991,
+						"span": {
+							"offset": 270,
+							"length": 11
+						}
+					},
+					{
+						"content": "It",
+						"polygon": [
+							2.5452,
+							0.3581,
+							2.593,
+							0.3581,
+							2.5978,
+							0.4774,
+							2.55,
+							0.4774
+						],
+						"confidence": 0.864,
+						"span": {
+							"offset": 282,
+							"length": 2
+						}
+					},
+					{
+						"content": "is",
+						"polygon": [
+							2.6216,
+							0.3581,
+							2.7028,
+							0.3581,
+							2.7076,
+							0.4774,
+							2.6264,
+							0.4774
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 285,
+							"length": 2
+						}
+					},
+					{
+						"content": "made",
+						"polygon": [
+							2.7267,
+							0.3581,
+							3.0228,
+							0.3533,
+							3.0275,
+							0.4822,
+							2.7315,
+							0.4774
+						],
+						"confidence": 0.991,
+						"span": {
+							"offset": 288,
+							"length": 4
+						}
+					},
+					{
+						"content": "available",
+						"polygon": [
+							3.0466,
+							0.3533,
+							3.4812,
+							0.3533,
+							3.486,
+							0.4822,
+							3.0514,
+							0.4822
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 293,
+							"length": 9
+						}
+					},
+					{
+						"content": "under",
+						"polygon": [
+							3.5098,
+							0.3533,
+							3.8011,
+							0.3533,
+							3.8059,
+							0.4822,
+							3.5146,
+							0.4822
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 303,
+							"length": 5
+						}
+					},
+					{
+						"content": "a",
+						"polygon": [
+							3.825,
+							0.3533,
+							3.8919,
+							0.3533,
+							3.9014,
+							0.4822,
+							3.8298,
+							0.4822
+						],
+						"confidence": 0.998,
+						"span": {
+							"offset": 309,
+							"length": 1
+						}
+					},
+					{
+						"content": "CC-BY-NC-ND",
+						"polygon": [
+							3.9205,
+							0.3533,
+							4.6559,
+							0.3533,
+							4.6607,
+							0.4822,
+							3.9253,
+							0.4822
+						],
+						"confidence": 0.991,
+						"span": {
+							"offset": 311,
+							"length": 11
+						}
+					},
+					{
+						"content": "4.0",
+						"polygon": [
+							4.6989,
+							0.3533,
+							4.8565,
+							0.3533,
+							4.8612,
+							0.4822,
+							4.7037,
+							0.4822
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 323,
+							"length": 3
+						}
+					},
+					{
+						"content": "International",
+						"polygon": [
+							4.8803,
+							0.3533,
+							5.4963,
+							0.3533,
+							5.5011,
+							0.4822,
+							4.8899,
+							0.4822
+						],
+						"confidence": 0.892,
+						"span": {
+							"offset": 327,
+							"length": 13
+						}
+					},
+					{
+						"content": "license",
+						"polygon": [
+							5.5202,
+							0.3533,
+							5.8736,
+							0.3533,
+							5.8784,
+							0.4774,
+							5.525,
+							0.4822
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 341,
+							"length": 7
+						}
+					},
+					{
+						"content": ".",
+						"polygon": [
+							5.8975,
+							0.3533,
+							5.9404,
+							0.3533,
+							5.9452,
+							0.4774,
+							5.9022,
+							0.4774
+						],
+						"confidence": 0.881,
+						"span": {
+							"offset": 349,
+							"length": 1
+						}
+					},
+					{
+						"content": "COVID-19",
+						"polygon": [
+							2.9463,
+							1.1697,
+							3.9587,
+							1.1602,
+							3.9539,
+							1.3702,
+							2.9416,
+							1.3607
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 351,
+							"length": 8
+						}
+					},
+					{
+						"content": "in",
+						"polygon": [
+							4.0017,
+							1.1602,
+							4.2022,
+							1.1602,
+							4.1975,
+							1.3702,
+							3.9969,
+							1.3702
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 360,
+							"length": 2
+						}
+					},
+					{
+						"content": "Youth",
+						"polygon": [
+							4.2739,
+							1.1602,
+							4.8517,
+							1.1602,
+							4.8469,
+							1.3702,
+							4.2691,
+							1.3702
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 363,
+							"length": 5
+						}
+					},
+					{
+						"content": "Soccer",
+						"polygon": [
+							4.8947,
+							1.1602,
+							5.5584,
+							1.1697,
+							5.5537,
+							1.3655,
+							4.8947,
+							1.3702
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 369,
+							"length": 6
+						}
+					},
+					{
+						"content": "Andrew",
+						"polygon": [
+							0.7975,
+							2.053,
+							1.3037,
+							2.0482,
+							1.3037,
+							2.2153,
+							0.7975,
+							2.2105
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 376,
+							"length": 6
+						}
+					},
+					{
+						"content": "M.",
+						"polygon": [
+							1.3562,
+							2.0434,
+							1.5663,
+							2.0434,
+							1.5615,
+							2.2153,
+							1.3562,
+							2.2153
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 383,
+							"length": 2
+						}
+					},
+					{
+						"content": "Watson,",
+						"polygon": [
+							1.5997,
+							2.0434,
+							2.1489,
+							2.0386,
+							2.1489,
+							2.2201,
+							1.5997,
+							2.2153
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 386,
+							"length": 7
+						}
+					},
+					{
+						"content": "MD,",
+						"polygon": [
+							2.1871,
+							2.0386,
+							2.5022,
+							2.0339,
+							2.5022,
+							2.2201,
+							2.1823,
+							2.2201
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 394,
+							"length": 3
+						}
+					},
+					{
+						"content": "MS,",
+						"polygon": [
+							2.5404,
+							2.0339,
+							2.8795,
+							2.0339,
+							2.8795,
+							2.2248,
+							2.5357,
+							2.2201
+						],
+						"confidence": 0.571,
+						"span": {
+							"offset": 398,
+							"length": 3
+						}
+					},
+					{
+						"content": "Kristin",
+						"polygon": [
+							2.9177,
+							2.0339,
+							3.3809,
+							2.0291,
+							3.3761,
+							2.2248,
+							2.9177,
+							2.2248
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 402,
+							"length": 7
+						}
+					},
+					{
+						"content": "Haraldsdottir,",
+						"polygon": [
+							3.4143,
+							2.0291,
+							4.3551,
+							2.0291,
+							4.3503,
+							2.2248,
+							3.4143,
+							2.2248
+						],
+						"confidence": 0.991,
+						"span": {
+							"offset": 410,
+							"length": 14
+						}
+					},
+					{
+						"content": "PhD,1",
+						"polygon": [
+							4.3933,
+							2.0291,
+							4.7801,
+							2.0243,
+							4.7801,
+							2.2248,
+							4.3885,
+							2.2248
+						],
+						"confidence": 0.976,
+						"span": {
+							"offset": 425,
+							"length": 5
+						}
+					},
+					{
+						"content": "Kevin",
+						"polygon": [
+							4.8183,
+							2.0243,
+							5.2337,
+							2.0243,
+							5.2289,
+							2.2248,
+							4.8135,
+							2.2248
+						],
+						"confidence": 0.996,
+						"span": {
+							"offset": 431,
+							"length": 5
+						}
+					},
+					{
+						"content": "Biese,",
+						"polygon": [
+							5.2671,
+							2.0243,
+							5.6826,
+							2.0243,
+							5.6826,
+							2.2248,
+							5.2671,
+							2.2248
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 437,
+							"length": 6
+						}
+					},
+					{
+						"content": "MS,2",
+						"polygon": [
+							5.7208,
+							2.0243,
+							6.0742,
+							2.0291,
+							6.0694,
+							2.2248,
+							5.716,
+							2.2248
+						],
+						"confidence": 0.97,
+						"span": {
+							"offset": 444,
+							"length": 4
+						}
+					},
+					{
+						"content": "Leslie",
+						"polygon": [
+							6.1124,
+							2.0291,
+							6.5135,
+							2.0291,
+							6.5087,
+							2.2201,
+							6.1076,
+							2.2248
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 449,
+							"length": 6
+						}
+					},
+					{
+						"content": "Goodavish,",
+						"polygon": [
+							6.5469,
+							2.0291,
+							7.3301,
+							2.0339,
+							7.3253,
+							2.2153,
+							6.5469,
+							2.2201
+						],
+						"confidence": 0.991,
+						"span": {
+							"offset": 456,
+							"length": 10
+						}
+					},
+					{
+						"content": "PA,1",
+						"polygon": [
+							7.3635,
+							2.0339,
+							7.6834,
+							2.0339,
+							7.6787,
+							2.2153,
+							7.3635,
+							2.2153
+						],
+						"confidence": 0.843,
+						"span": {
+							"offset": 467,
+							"length": 4
+						}
+					},
+					{
+						"content": "Bethany",
+						"polygon": [
+							2.5691,
+							2.4301,
+							3.1087,
+							2.4253,
+							3.1135,
+							2.602,
+							2.5739,
+							2.602
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 472,
+							"length": 7
+						}
+					},
+					{
+						"content": "Stevens,2",
+						"polygon": [
+							3.1469,
+							2.4253,
+							3.7868,
+							2.4206,
+							3.7916,
+							2.6068,
+							3.1517,
+							2.602
+						],
+						"confidence": 0.817,
+						"span": {
+							"offset": 480,
+							"length": 9
+						}
+					},
+					{
+						"content": "Timothy",
+						"polygon": [
+							3.8202,
+							2.4206,
+							4.3885,
+							2.4158,
+							4.3933,
+							2.602,
+							3.825,
+							2.6068
+						],
+						"confidence": 0.996,
+						"span": {
+							"offset": 490,
+							"length": 7
+						}
+					},
+					{
+						"content": "McGuine,",
+						"polygon": [
+							4.4267,
+							2.4158,
+							5.1,
+							2.411,
+							5.1096,
+							2.5972,
+							4.4315,
+							2.602
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 498,
+							"length": 8
+						}
+					},
+					{
+						"content": "PhD,",
+						"polygon": [
+							5.1382,
+							2.411,
+							5.4868,
+							2.4063,
+							5.4963,
+							2.5972,
+							5.143,
+							2.5972
+						],
+						"confidence": 0.987,
+						"span": {
+							"offset": 507,
+							"length": 4
+						}
+					},
+					{
+						"content": "LAT1",
+						"polygon": [
+							5.525,
+							2.4063,
+							5.9118,
+							2.4015,
+							5.9213,
+							2.5924,
+							5.5298,
+							2.5972
+						],
+						"confidence": 0.985,
+						"span": {
+							"offset": 512,
+							"length": 4
+						}
+					},
+					{
+						"content": "From",
+						"polygon": [
+							2.3208,
+							3.194,
+							2.6407,
+							3.194,
+							2.6407,
+							3.3707,
+							2.3208,
+							3.3659
+						],
+						"confidence": 0.979,
+						"span": {
+							"offset": 517,
+							"length": 4
+						}
+					},
+					{
+						"content": "the",
+						"polygon": [
+							2.7028,
+							3.194,
+							2.9081,
+							3.194,
+							2.9081,
+							3.3707,
+							2.7028,
+							3.3707
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 522,
+							"length": 3
+						}
+					},
+					{
+						"content": "Department",
+						"polygon": [
+							2.9463,
+							3.194,
+							3.7438,
+							3.194,
+							3.7438,
+							3.3754,
+							2.9463,
+							3.3707
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 526,
+							"length": 10
+						}
+					},
+					{
+						"content": "of",
+						"polygon": [
+							3.782,
+							3.194,
+							3.9301,
+							3.194,
+							3.9301,
+							3.3754,
+							3.782,
+							3.3754
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 537,
+							"length": 2
+						}
+					},
+					{
+						"content": "Orthopedics",
+						"polygon": [
+							3.9683,
+							3.194,
+							4.7801,
+							3.194,
+							4.7801,
+							3.3707,
+							3.9683,
+							3.3754
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 540,
+							"length": 11
+						}
+					},
+					{
+						"content": "and",
+						"polygon": [
+							4.8135,
+							3.194,
+							5.057,
+							3.194,
+							5.057,
+							3.3707,
+							4.8135,
+							3.3707
+						],
+						"confidence": 0.998,
+						"span": {
+							"offset": 552,
+							"length": 3
+						}
+					},
+					{
+						"content": "Rehabilitation,\"",
+						"polygon": [
+							5.0904,
+							3.194,
+							6.1649,
+							3.1845,
+							6.1649,
+							3.3611,
+							5.0904,
+							3.3707
+						],
+						"confidence": 0.176,
+						"span": {
+							"offset": 556,
+							"length": 16
+						}
+					},
+					{
+						"content": "University",
+						"polygon": [
+							1.4803,
+							3.5712,
+							2.1823,
+							3.5712,
+							2.1775,
+							3.7526,
+							1.4803,
+							3.7526
+						],
+						"confidence": 0.992,
+						"span": {
+							"offset": 573,
+							"length": 10
+						}
+					},
+					{
+						"content": "of",
+						"polygon": [
+							2.2157,
+							3.5712,
+							2.3781,
+							3.5712,
+							2.3733,
+							3.7526,
+							2.2157,
+							3.7526
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 584,
+							"length": 2
+						}
+					},
+					{
+						"content": "Wisconsin",
+						"polygon": [
+							2.4115,
+							3.5712,
+							3.1039,
+							3.5712,
+							3.1039,
+							3.7478,
+							2.4115,
+							3.7526
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 587,
+							"length": 9
+						}
+					},
+					{
+						"content": "School",
+						"polygon": [
+							3.1374,
+							3.5712,
+							3.6101,
+							3.5712,
+							3.6101,
+							3.7478,
+							3.1374,
+							3.7478
+						],
+						"confidence": 0.996,
+						"span": {
+							"offset": 597,
+							"length": 6
+						}
+					},
+					{
+						"content": "of",
+						"polygon": [
+							3.6435,
+							3.5712,
+							3.7963,
+							3.5712,
+							3.7916,
+							3.7478,
+							3.6435,
+							3.7478
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 604,
+							"length": 2
+						}
+					},
+					{
+						"content": "Medicine",
+						"polygon": [
+							3.8298,
+							3.5712,
+							4.4649,
+							3.576,
+							4.4601,
+							3.7478,
+							3.8298,
+							3.7478
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 607,
+							"length": 8
+						}
+					},
+					{
+						"content": "and",
+						"polygon": [
+							4.4983,
+							3.576,
+							4.7514,
+							3.576,
+							4.7514,
+							3.7478,
+							4.4983,
+							3.7478
+						],
+						"confidence": 0.998,
+						"span": {
+							"offset": 616,
+							"length": 3
+						}
+					},
+					{
+						"content": "Public",
+						"polygon": [
+							4.7896,
+							3.576,
+							5.2146,
+							3.576,
+							5.2098,
+							3.7478,
+							4.7848,
+							3.7478
+						],
+						"confidence": 0.996,
+						"span": {
+							"offset": 620,
+							"length": 6
+						}
+					},
+					{
+						"content": "Health,",
+						"polygon": [
+							5.248,
+							3.576,
+							5.7447,
+							3.576,
+							5.7399,
+							3.7478,
+							5.248,
+							3.7478
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 627,
+							"length": 7
+						}
+					},
+					{
+						"content": "Madison,",
+						"polygon": [
+							5.7781,
+							3.576,
+							6.4228,
+							3.576,
+							6.4228,
+							3.7478,
+							5.7781,
+							3.7478
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 635,
+							"length": 8
+						}
+					},
+					{
+						"content": "WI,",
+						"polygon": [
+							6.461,
+							3.576,
+							6.714,
+							3.576,
+							6.7093,
+							3.7526,
+							6.4562,
+							3.7478
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 644,
+							"length": 3
+						}
+					},
+					{
+						"content": "and",
+						"polygon": [
+							6.7475,
+							3.576,
+							7.0101,
+							3.576,
+							7.0053,
+							3.7526,
+							6.7427,
+							3.7526
+						],
+						"confidence": 0.998,
+						"span": {
+							"offset": 648,
+							"length": 3
+						}
+					},
+					{
+						"content": "The",
+						"polygon": [
+							1.9292,
+							3.9722,
+							2.1584,
+							3.9674,
+							2.168,
+							4.1393,
+							1.934,
+							4.1393
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 652,
+							"length": 3
+						}
+					},
+					{
+						"content": "Department",
+						"polygon": [
+							2.1966,
+							3.9674,
+							2.9989,
+							3.9579,
+							3.0037,
+							4.1441,
+							2.2014,
+							4.1393
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 656,
+							"length": 10
+						}
+					},
+					{
+						"content": "of",
+						"polygon": [
+							3.0323,
+							3.9579,
+							3.1851,
+							3.9579,
+							3.1899,
+							4.1441,
+							3.0371,
+							4.1441
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 667,
+							"length": 2
+						}
+					},
+					{
+						"content": "Kinesiology,2",
+						"polygon": [
+							3.2185,
+							3.9579,
+							4.1306,
+							3.9531,
+							4.1306,
+							4.1441,
+							3.2233,
+							4.1441
+						],
+						"confidence": 0.9,
+						"span": {
+							"offset": 670,
+							"length": 13
+						}
+					},
+					{
+						"content": "University",
+						"polygon": [
+							4.164,
+							3.9531,
+							4.8612,
+							3.9531,
+							4.866,
+							4.1393,
+							4.1688,
+							4.1441
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 684,
+							"length": 10
+						}
+					},
+					{
+						"content": "of",
+						"polygon": [
+							4.8994,
+							3.9531,
+							5.0618,
+							3.9531,
+							5.0618,
+							4.1393,
+							4.8994,
+							4.1393
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 695,
+							"length": 2
+						}
+					},
+					{
+						"content": "Wisconsin",
+						"polygon": [
+							5.0952,
+							3.9531,
+							5.7924,
+							3.9579,
+							5.7972,
+							4.1345,
+							5.1,
+							4.1393
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 698,
+							"length": 9
+						}
+					},
+					{
+						"content": "-",
+						"polygon": [
+							5.8306,
+							3.9579,
+							5.9213,
+							3.9579,
+							5.9213,
+							4.1298,
+							5.8306,
+							4.1345
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 708,
+							"length": 1
+						}
+					},
+					{
+						"content": "Madison",
+						"polygon": [
+							5.9596,
+							3.9579,
+							6.5612,
+							3.9674,
+							6.5612,
+							4.125,
+							5.9596,
+							4.1298
+						],
+						"confidence": 0.996,
+						"span": {
+							"offset": 710,
+							"length": 7
+						}
+					},
+					{
+						"content": "Address",
+						"polygon": [
+							0.6112,
+							7.0326,
+							1.1604,
+							7.0326,
+							1.1556,
+							7.2044,
+							0.6065,
+							7.1949
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 718,
+							"length": 7
+						}
+					},
+					{
+						"content": "for",
+						"polygon": [
+							1.1938,
+							7.0326,
+							1.3896,
+							7.0326,
+							1.3848,
+							7.2092,
+							1.189,
+							7.2044
+						],
+						"confidence": 0.998,
+						"span": {
+							"offset": 726,
+							"length": 3
+						}
+					},
+					{
+						"content": "Correspondence:",
+						"polygon": [
+							1.423,
+							7.0326,
+							2.5834,
+							7.0326,
+							2.5834,
+							7.2092,
+							1.4183,
+							7.2092
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 730,
+							"length": 15
+						}
+					},
+					{
+						"content": "Andrew",
+						"polygon": [
+							0.616,
+							7.4145,
+							1.1126,
+							7.4193,
+							1.1126,
+							7.572,
+							0.616,
+							7.5864
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 746,
+							"length": 6
+						}
+					},
+					{
+						"content": "Watson",
+						"polygon": [
+							1.189,
+							7.4193,
+							1.6952,
+							7.424,
+							1.7,
+							7.5864,
+							1.189,
+							7.572
+						],
+						"confidence": 0.992,
+						"span": {
+							"offset": 753,
+							"length": 6
+						}
+					},
+					{
+						"content": "Department",
+						"polygon": [
+							0.6112,
+							7.806,
+							1.3992,
+							7.8012,
+							1.3992,
+							7.9826,
+							0.6112,
+							7.9826
+						],
+						"confidence": 0.992,
+						"span": {
+							"offset": 760,
+							"length": 10
+						}
+					},
+					{
+						"content": "of",
+						"polygon": [
+							1.4326,
+							7.8012,
+							1.5758,
+							7.8012,
+							1.5758,
+							7.9826,
+							1.4326,
+							7.9826
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 771,
+							"length": 2
+						}
+					},
+					{
+						"content": "Orthopedics",
+						"polygon": [
+							1.614,
+							7.8012,
+							2.4354,
+							7.7964,
+							2.4402,
+							7.9779,
+							1.614,
+							7.9826
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 774,
+							"length": 11
+						}
+					},
+					{
+						"content": "and",
+						"polygon": [
+							2.4736,
+							7.7964,
+							2.7124,
+							7.7964,
+							2.7171,
+							7.9779,
+							2.4736,
+							7.9779
+						],
+						"confidence": 0.998,
+						"span": {
+							"offset": 786,
+							"length": 3
+						}
+					},
+					{
+						"content": "Rehabilitation,",
+						"polygon": [
+							2.7506,
+							7.7964,
+							3.739,
+							7.7964,
+							3.7438,
+							7.9779,
+							2.7506,
+							7.9779
+						],
+						"confidence": 0.991,
+						"span": {
+							"offset": 790,
+							"length": 15
+						}
+					},
+					{
+						"content": "Division",
+						"polygon": [
+							3.7772,
+							7.7964,
+							4.3598,
+							7.7964,
+							4.3694,
+							7.9779,
+							3.782,
+							7.9779
+						],
+						"confidence": 0.953,
+						"span": {
+							"offset": 806,
+							"length": 8
+						}
+					},
+					{
+						"content": "of",
+						"polygon": [
+							4.398,
+							7.7964,
+							4.5413,
+							7.7964,
+							4.5461,
+							7.9779,
+							4.4028,
+							7.9779
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 815,
+							"length": 2
+						}
+					},
+					{
+						"content": "Sports",
+						"polygon": [
+							4.5747,
+							7.7964,
+							5.0045,
+							7.7964,
+							5.014,
+							7.9779,
+							4.5843,
+							7.9779
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 818,
+							"length": 6
+						}
+					},
+					{
+						"content": "Medicine",
+						"polygon": [
+							5.0427,
+							7.7964,
+							5.7017,
+							7.7964,
+							5.7112,
+							7.9826,
+							5.0522,
+							7.9779
+						],
+						"confidence": 0.996,
+						"span": {
+							"offset": 825,
+							"length": 8
+						}
+					},
+					{
+						"content": "1685",
+						"polygon": [
+							0.616,
+							8.1688,
+							0.9407,
+							8.1784,
+							0.936,
+							8.3598,
+							0.616,
+							8.3598
+						],
+						"confidence": 0.996,
+						"span": {
+							"offset": 834,
+							"length": 4
+						}
+					},
+					{
+						"content": "Highland",
+						"polygon": [
+							0.9742,
+							8.1784,
+							1.614,
+							8.1832,
+							1.614,
+							8.355,
+							0.9742,
+							8.3598
+						],
+						"confidence": 0.996,
+						"span": {
+							"offset": 839,
+							"length": 8
+						}
+					},
+					{
+						"content": "Avenue",
+						"polygon": [
+							1.6475,
+							8.1832,
+							2.1775,
+							8.1832,
+							2.1775,
+							8.3503,
+							1.6475,
+							8.355
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 848,
+							"length": 6
+						}
+					},
+					{
+						"content": "Madison,",
+						"polygon": [
+							0.616,
+							8.5651,
+							1.2511,
+							8.5603,
+							1.2511,
+							8.7322,
+							0.616,
+							8.7418
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 855,
+							"length": 8
+						}
+					},
+					{
+						"content": "WI",
+						"polygon": [
+							1.2846,
+							8.5603,
+							1.4899,
+							8.5603,
+							1.4947,
+							8.7322,
+							1.2846,
+							8.7322
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 864,
+							"length": 2
+						}
+					},
+					{
+						"content": "53705",
+						"polygon": [
+							1.5233,
+							8.5603,
+							1.9579,
+							8.5603,
+							1.9626,
+							8.7322,
+							1.5281,
+							8.7322
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 867,
+							"length": 5
+						}
+					},
+					{
+						"content": "Phone:",
+						"polygon": [
+							0.6112,
+							8.9423,
+							1.0697,
+							8.9423,
+							1.0649,
+							9.1237,
+							0.6112,
+							9.1237
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 873,
+							"length": 6
+						}
+					},
+					{
+						"content": "(608)",
+						"polygon": [
+							1.1031,
+							8.9423,
+							1.4803,
+							8.9423,
+							1.4756,
+							9.1237,
+							1.1031,
+							9.1237
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 880,
+							"length": 5
+						}
+					},
+					{
+						"content": "263-6477",
+						"polygon": [
+							1.5138,
+							8.9423,
+							2.168,
+							8.9423,
+							2.1632,
+							9.1142,
+							1.5138,
+							9.1237
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 886,
+							"length": 8
+						}
+					},
+					{
+						"content": "Fax:",
+						"polygon": [
+							0.6065,
+							9.3242,
+							0.8978,
+							9.329,
+							0.9025,
+							9.5056,
+							0.6112,
+							9.5009
+						],
+						"confidence": 0.98,
+						"span": {
+							"offset": 895,
+							"length": 4
+						}
+					},
+					{
+						"content": "(608)",
+						"polygon": [
+							0.9312,
+							9.329,
+							1.3084,
+							9.329,
+							1.3084,
+							9.5104,
+							0.936,
+							9.5056
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 900,
+							"length": 5
+						}
+					},
+					{
+						"content": "263-0503",
+						"polygon": [
+							1.3419,
+							9.329,
+							2.0056,
+							9.3242,
+							2.0056,
+							9.5009,
+							1.3419,
+							9.5104
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 906,
+							"length": 8
+						}
+					},
+					{
+						"content": "Email:",
+						"polygon": [
+							0.616,
+							9.7157,
+							1.0601,
+							9.7157,
+							1.0601,
+							9.8733,
+							0.616,
+							9.8733
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 915,
+							"length": 6
+						}
+					},
+					{
+						"content": "Watson@ortho.wisc.edu",
+						"polygon": [
+							1.0888,
+							9.7157,
+							2.7506,
+							9.7157,
+							2.7506,
+							9.8733,
+							1.0935,
+							9.8733
+						],
+						"confidence": 0.967,
+						"span": {
+							"offset": 922,
+							"length": 21
+						}
+					},
+					{
+						"content": "NOTE:",
+						"polygon": [
+							1.1413,
+							10.4223,
+							1.4469,
+							10.4223,
+							1.4469,
+							10.5464,
+							1.1413,
+							10.5464
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 944,
+							"length": 5
+						}
+					},
+					{
+						"content": "This",
+						"polygon": [
+							1.4708,
+							10.4223,
+							1.6666,
+							10.4223,
+							1.6666,
+							10.5464,
+							1.4756,
+							10.5464
+						],
+						"confidence": 0.99,
+						"span": {
+							"offset": 950,
+							"length": 4
+						}
+					},
+					{
+						"content": "preprint",
+						"polygon": [
+							1.6904,
+							10.4223,
+							2.0629,
+							10.4223,
+							2.0677,
+							10.5464,
+							1.6904,
+							10.5464
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 955,
+							"length": 8
+						}
+					},
+					{
+						"content": "reports",
+						"polygon": [
+							2.0916,
+							10.4223,
+							2.4306,
+							10.4223,
+							2.4306,
+							10.5464,
+							2.0916,
+							10.5464
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 964,
+							"length": 7
+						}
+					},
+					{
+						"content": "new",
+						"polygon": [
+							2.4545,
+							10.4223,
+							2.6407,
+							10.4223,
+							2.6407,
+							10.5464,
+							2.4545,
+							10.5464
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 972,
+							"length": 3
+						}
+					},
+					{
+						"content": "research",
+						"polygon": [
+							2.6646,
+							10.4223,
+							3.0753,
+							10.4223,
+							3.0753,
+							10.5464,
+							2.6694,
+							10.5464
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 976,
+							"length": 8
+						}
+					},
+					{
+						"content": "that",
+						"polygon": [
+							3.0992,
+							10.4223,
+							3.2854,
+							10.4223,
+							3.2854,
+							10.5464,
+							3.0992,
+							10.5464
+						],
+						"confidence": 0.986,
+						"span": {
+							"offset": 985,
+							"length": 4
+						}
+					},
+					{
+						"content": "has",
+						"polygon": [
+							3.3093,
+							10.4223,
+							3.4812,
+							10.4223,
+							3.4812,
+							10.5464,
+							3.3093,
+							10.5464
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 990,
+							"length": 3
+						}
+					},
+					{
+						"content": "not",
+						"polygon": [
+							3.5051,
+							10.4223,
+							3.6579,
+							10.4223,
+							3.6579,
+							10.5464,
+							3.5051,
+							10.5464
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 994,
+							"length": 3
+						}
+					},
+					{
+						"content": "been",
+						"polygon": [
+							3.6817,
+							10.4223,
+							3.911,
+							10.4223,
+							3.911,
+							10.5464,
+							3.6817,
+							10.5464
+						],
+						"confidence": 0.991,
+						"span": {
+							"offset": 998,
+							"length": 4
+						}
+					},
+					{
+						"content": "certified",
+						"polygon": [
+							3.9348,
+							10.4223,
+							4.3169,
+							10.4223,
+							4.3169,
+							10.5464,
+							3.9348,
+							10.5464
+						],
+						"confidence": 0.989,
+						"span": {
+							"offset": 1003,
+							"length": 9
+						}
+					},
+					{
+						"content": "by",
+						"polygon": [
+							4.3407,
+							10.4223,
+							4.4553,
+							10.4223,
+							4.4553,
+							10.5464,
+							4.3407,
+							10.5464
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 1013,
+							"length": 2
+						}
+					},
+					{
+						"content": "peer",
+						"polygon": [
+							4.4792,
+							10.4223,
+							4.6893,
+							10.4223,
+							4.6893,
+							10.5464,
+							4.4792,
+							10.5464
+						],
+						"confidence": 0.991,
+						"span": {
+							"offset": 1016,
+							"length": 4
+						}
+					},
+					{
+						"content": "review",
+						"polygon": [
+							4.7132,
+							10.4223,
+							5.014,
+							10.4223,
+							5.014,
+							10.5464,
+							4.7132,
+							10.5464
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 1021,
+							"length": 6
+						}
+					},
+					{
+						"content": "and",
+						"polygon": [
+							5.0475,
+							10.4223,
+							5.2194,
+							10.4223,
+							5.2194,
+							10.5464,
+							5.0475,
+							10.5464
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 1028,
+							"length": 3
+						}
+					},
+					{
+						"content": "should",
+						"polygon": [
+							5.2433,
+							10.4223,
+							5.568,
+							10.4223,
+							5.568,
+							10.5464,
+							5.2433,
+							10.5464
+						],
+						"confidence": 0.996,
+						"span": {
+							"offset": 1032,
+							"length": 6
+						}
+					},
+					{
+						"content": "not",
+						"polygon": [
+							5.5919,
+							10.4223,
+							5.7447,
+							10.4223,
+							5.7447,
+							10.5464,
+							5.5919,
+							10.5464
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 1039,
+							"length": 3
+						}
+					},
+					{
+						"content": "be",
+						"polygon": [
+							5.7685,
+							10.4223,
+							5.8831,
+							10.4223,
+							5.8831,
+							10.5464,
+							5.7685,
+							10.5464
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 1043,
+							"length": 2
+						}
+					},
+					{
+						"content": "used",
+						"polygon": [
+							5.907,
+							10.4223,
+							6.1362,
+							10.4223,
+							6.1362,
+							10.5464,
+							5.907,
+							10.5464
+						],
+						"confidence": 0.988,
+						"span": {
+							"offset": 1046,
+							"length": 4
+						}
+					},
+					{
+						"content": "to",
+						"polygon": [
+							6.1601,
+							10.4223,
+							6.2604,
+							10.4223,
+							6.2556,
+							10.5464,
+							6.1601,
+							10.5464
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 1051,
+							"length": 2
+						}
+					},
+					{
+						"content": "guide",
+						"polygon": [
+							6.2843,
+							10.4223,
+							6.5421,
+							10.4223,
+							6.5421,
+							10.5464,
+							6.2795,
+							10.5464
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 1054,
+							"length": 5
+						}
+					},
+					{
+						"content": "clinical",
+						"polygon": [
+							6.566,
+							10.4223,
+							6.9003,
+							10.4223,
+							6.9003,
+							10.5512,
+							6.566,
+							10.5464
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 1060,
+							"length": 8
+						}
+					},
+					{
+						"content": "practice.",
+						"polygon": [
+							6.9242,
+							10.4223,
+							7.3396,
+							10.4223,
+							7.3396,
+							10.5512,
+							6.9242,
+							10.5512
+						],
+						"confidence": 0.992,
+						"span": {
+							"offset": 1069,
+							"length": 9
+						}
+					}
+				],
+				"lines": [
+					{
+						"content": "medRxiv preprint doi: https://doi.org/10.1101/2020.09.25.20201616; this version posted September 27, 2020. The copyright holder for this",
+						"polygon": [
+							0.85,
+							0.0239,
+							7.6452,
+							0.0239,
+							7.6452,
+							0.148,
+							0.85,
+							0.148
+						],
+						"spans": [
+							{
+								"offset": 0,
+								"length": 136
+							}
+						]
+					},
+					{
+						"content": "preprint (which was not certified by peer review) is the author/funder, who has granted medRxiv a license to display the preprint in perpetuity.",
+						"polygon": [
+							0.6781,
+							0.1337,
+							7.798,
+							0.1385,
+							7.798,
+							0.2674,
+							0.6781,
+							0.2626
+						],
+						"spans": [
+							{
+								"offset": 137,
+								"length": 144
+							}
+						]
+					},
+					{
+						"content": "It is made available under a CC-BY-NC-ND 4.0 International license .",
+						"polygon": [
+							2.5452,
+							0.3485,
+							5.9452,
+							0.3485,
+							5.9452,
+							0.4774,
+							2.5452,
+							0.4774
+						],
+						"spans": [
+							{
+								"offset": 282,
+								"length": 68
+							}
+						]
+					},
+					{
+						"content": "COVID-19 in Youth Soccer",
+						"polygon": [
+							2.9416,
+							1.1554,
+							5.5632,
+							1.1554,
+							5.5632,
+							1.3702,
+							2.9416,
+							1.3655
+						],
+						"spans": [
+							{
+								"offset": 351,
+								"length": 24
+							}
+						]
+					},
+					{
+						"content": "Andrew M. Watson, MD, MS, Kristin Haraldsdottir, PhD,1 Kevin Biese, MS,2 Leslie Goodavish, PA,1",
+						"polygon": [
+							0.7975,
+							2.0291,
+							7.6882,
+							2.0243,
+							7.6882,
+							2.2201,
+							0.7975,
+							2.2248
+						],
+						"spans": [
+							{
+								"offset": 376,
+								"length": 95
+							}
+						]
+					},
+					{
+						"content": "Bethany Stevens,2 Timothy McGuine, PhD, LAT1",
+						"polygon": [
+							2.5691,
+							2.4158,
+							5.9166,
+							2.3967,
+							5.9213,
+							2.5877,
+							2.5691,
+							2.6068
+						],
+						"spans": [
+							{
+								"offset": 472,
+								"length": 44
+							}
+						]
+					},
+					{
+						"content": "From the Department of Orthopedics and Rehabilitation,\"",
+						"polygon": [
+							2.316,
+							3.1892,
+							6.1697,
+							3.1845,
+							6.1697,
+							3.3659,
+							2.316,
+							3.3707
+						],
+						"spans": [
+							{
+								"offset": 517,
+								"length": 55
+							}
+						]
+					},
+					{
+						"content": "University of Wisconsin School of Medicine and Public Health, Madison, WI, and",
+						"polygon": [
+							1.4756,
+							3.5712,
+							7.0149,
+							3.5712,
+							7.0149,
+							3.7478,
+							1.4756,
+							3.7478
+						],
+						"spans": [
+							{
+								"offset": 573,
+								"length": 78
+							}
+						]
+					},
+					{
+						"content": "The Department of Kinesiology,2 University of Wisconsin - Madison",
+						"polygon": [
+							1.9149,
+							3.9579,
+							6.5708,
+							3.9531,
+							6.5708,
+							4.1345,
+							1.9149,
+							4.1441
+						],
+						"spans": [
+							{
+								"offset": 652,
+								"length": 65
+							}
+						]
+					},
+					{
+						"content": "Address for Correspondence:",
+						"polygon": [
+							0.6065,
+							7.0278,
+							2.5787,
+							7.0278,
+							2.5787,
+							7.2092,
+							0.6065,
+							7.1997
+						],
+						"spans": [
+							{
+								"offset": 718,
+								"length": 27
+							}
+						]
+					},
+					{
+						"content": "Andrew Watson",
+						"polygon": [
+							0.6065,
+							7.4097,
+							1.7096,
+							7.4145,
+							1.7096,
+							7.5864,
+							0.6065,
+							7.5816
+						],
+						"spans": [
+							{
+								"offset": 746,
+								"length": 13
+							}
+						]
+					},
+					{
+						"content": "Department of Orthopedics and Rehabilitation, Division of Sports Medicine",
+						"polygon": [
+							0.6065,
+							7.7964,
+							5.7065,
+							7.7917,
+							5.7065,
+							7.9779,
+							0.6065,
+							7.9826
+						],
+						"spans": [
+							{
+								"offset": 760,
+								"length": 73
+							}
+						]
+					},
+					{
+						"content": "1685 Highland Avenue",
+						"polygon": [
+							0.6112,
+							8.1688,
+							2.1823,
+							8.1688,
+							2.1823,
+							8.355,
+							0.6112,
+							8.355
+						],
+						"spans": [
+							{
+								"offset": 834,
+								"length": 20
+							}
+						]
+					},
+					{
+						"content": "Madison, WI 53705",
+						"polygon": [
+							0.6112,
+							8.5651,
+							1.9626,
+							8.5556,
+							1.9626,
+							8.7274,
+							0.6112,
+							8.737
+						],
+						"spans": [
+							{
+								"offset": 855,
+								"length": 17
+							}
+						]
+					},
+					{
+						"content": "Phone: (608) 263-6477",
+						"polygon": [
+							0.6065,
+							8.9375,
+							2.168,
+							8.9375,
+							2.168,
+							9.1189,
+							0.6065,
+							9.1237
+						],
+						"spans": [
+							{
+								"offset": 873,
+								"length": 21
+							}
+						]
+					},
+					{
+						"content": "Fax: (608) 263-0503",
+						"polygon": [
+							0.6065,
+							9.3194,
+							2.0104,
+							9.3194,
+							2.0104,
+							9.5009,
+							0.6065,
+							9.5056
+						],
+						"spans": [
+							{
+								"offset": 895,
+								"length": 19
+							}
+						]
+					},
+					{
+						"content": "Email: Watson@ortho.wisc.edu",
+						"polygon": [
+							0.6112,
+							9.7157,
+							2.7601,
+							9.7157,
+							2.7601,
+							9.8733,
+							0.6112,
+							9.8685
+						],
+						"spans": [
+							{
+								"offset": 915,
+								"length": 28
+							}
+						]
+					},
+					{
+						"content": "NOTE: This preprint reports new research that has not been certified by peer review and should not be used to guide clinical practice.",
+						"polygon": [
+							1.1365,
+							10.4175,
+							7.3396,
+							10.4175,
+							7.3396,
+							10.5464,
+							1.1365,
+							10.5417
+						],
+						"spans": [
+							{
+								"offset": 944,
+								"length": 134
+							}
+						]
+					}
+				],
+				"spans": [
+					{
+						"offset": 0,
+						"length": 1078
+					}
+				],
+				"kind": "document"
+			},
+			{
+				"pageNumber": 2,
+				"angle": 0,
+				"width": 8.5,
+				"height": 11,
+				"unit": "inch",
+				"words": [
+					{
+						"content": "medRxiv",
+						"polygon": [
+							0.8596,
+							0.0239,
+							1.2846,
+							0.0239,
+							1.2846,
+							0.148,
+							0.8596,
+							0.148
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 1079,
+							"length": 7
+						}
+					},
+					{
+						"content": "preprint",
+						"polygon": [
+							1.3084,
+							0.0239,
+							1.6952,
+							0.0286,
+							1.6952,
+							0.148,
+							1.3084,
+							0.148
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 1087,
+							"length": 8
+						}
+					},
+					{
+						"content": "doi:",
+						"polygon": [
+							1.7191,
+							0.0286,
+							1.9101,
+							0.0286,
+							1.9053,
+							0.148,
+							1.7191,
+							0.148
+						],
+						"confidence": 0.986,
+						"span": {
+							"offset": 1096,
+							"length": 4
+						}
+					},
+					{
+						"content": "https://doi.org/10.1101/2020.09.25.20201616;",
+						"polygon": [
+							1.934,
+							0.0286,
+							4.1879,
+							0.0286,
+							4.1879,
+							0.1432,
+							1.9292,
+							0.148
+						],
+						"confidence": 0.838,
+						"span": {
+							"offset": 1101,
+							"length": 44
+						}
+					},
+					{
+						"content": "this",
+						"polygon": [
+							4.2118,
+							0.0286,
+							4.3933,
+							0.0286,
+							4.3933,
+							0.1432,
+							4.2118,
+							0.1432
+						],
+						"confidence": 0.991,
+						"span": {
+							"offset": 1146,
+							"length": 4
+						}
+					},
+					{
+						"content": "version",
+						"polygon": [
+							4.4171,
+							0.0286,
+							4.7801,
+							0.0286,
+							4.7801,
+							0.1432,
+							4.4171,
+							0.1432
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 1151,
+							"length": 7
+						}
+					},
+					{
+						"content": "posted",
+						"polygon": [
+							4.8039,
+							0.0286,
+							5.1525,
+							0.0286,
+							5.1478,
+							0.1432,
+							4.8039,
+							0.1432
+						],
+						"confidence": 0.996,
+						"span": {
+							"offset": 1159,
+							"length": 6
+						}
+					},
+					{
+						"content": "September",
+						"polygon": [
+							5.1764,
+							0.0286,
+							5.7303,
+							0.0286,
+							5.7303,
+							0.148,
+							5.1764,
+							0.1432
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 1166,
+							"length": 9
+						}
+					},
+					{
+						"content": "27,",
+						"polygon": [
+							5.7542,
+							0.0286,
+							5.9118,
+							0.0286,
+							5.9118,
+							0.148,
+							5.7542,
+							0.148
+						],
+						"confidence": 0.998,
+						"span": {
+							"offset": 1176,
+							"length": 3
+						}
+					},
+					{
+						"content": "2020.",
+						"polygon": [
+							5.9357,
+							0.0286,
+							6.227,
+							0.0239,
+							6.227,
+							0.148,
+							5.9357,
+							0.148
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 1180,
+							"length": 5
+						}
+					},
+					{
+						"content": "The",
+						"polygon": [
+							6.2508,
+							0.0239,
+							6.4371,
+							0.0239,
+							6.4371,
+							0.148,
+							6.2508,
+							0.148
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 1186,
+							"length": 3
+						}
+					},
+					{
+						"content": "copyright",
+						"polygon": [
+							6.461,
+							0.0239,
+							6.9194,
+							0.0239,
+							6.9194,
+							0.148,
+							6.461,
+							0.148
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 1190,
+							"length": 9
+						}
+					},
+					{
+						"content": "holder",
+						"polygon": [
+							6.9433,
+							0.0239,
+							7.268,
+							0.0239,
+							7.268,
+							0.148,
+							6.9433,
+							0.148
+						],
+						"confidence": 0.996,
+						"span": {
+							"offset": 1200,
+							"length": 6
+						}
+					},
+					{
+						"content": "for",
+						"polygon": [
+							7.2919,
+							0.0239,
+							7.4256,
+							0.0239,
+							7.4256,
+							0.148,
+							7.2919,
+							0.148
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 1207,
+							"length": 3
+						}
+					},
+					{
+						"content": "this",
+						"polygon": [
+							7.4494,
+							0.0239,
+							7.6357,
+							0.0239,
+							7.6357,
+							0.148,
+							7.4494,
+							0.148
+						],
+						"confidence": 0.987,
+						"span": {
+							"offset": 1211,
+							"length": 4
+						}
+					},
+					{
+						"content": "preprint",
+						"polygon": [
+							0.6876,
+							0.1385,
+							1.0888,
+							0.1337,
+							1.0888,
+							0.2626,
+							0.6876,
+							0.2626
+						],
+						"confidence": 0.991,
+						"span": {
+							"offset": 1216,
+							"length": 8
+						}
+					},
+					{
+						"content": "(which",
+						"polygon": [
+							1.1174,
+							0.1337,
+							1.4803,
+							0.1337,
+							1.4803,
+							0.2626,
+							1.1174,
+							0.2626
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 1225,
+							"length": 6
+						}
+					},
+					{
+						"content": "was",
+						"polygon": [
+							1.5042,
+							0.1337,
+							1.7143,
+							0.1337,
+							1.7096,
+							0.2626,
+							1.5042,
+							0.2626
+						],
+						"confidence": 0.998,
+						"span": {
+							"offset": 1232,
+							"length": 3
+						}
+					},
+					{
+						"content": "not",
+						"polygon": [
+							1.7382,
+							0.1337,
+							1.9197,
+							0.1337,
+							1.9197,
+							0.2626,
+							1.7382,
+							0.2626
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 1236,
+							"length": 3
+						}
+					},
+					{
+						"content": "certified",
+						"polygon": [
+							1.9435,
+							0.1337,
+							2.3829,
+							0.1337,
+							2.3829,
+							0.2578,
+							1.9435,
+							0.2626
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 1240,
+							"length": 9
+						}
+					},
+					{
+						"content": "by",
+						"polygon": [
+							2.4067,
+							0.1337,
+							2.55,
+							0.1337,
+							2.55,
+							0.2578,
+							2.4067,
+							0.2578
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 1250,
+							"length": 2
+						}
+					},
+					{
+						"content": "peer",
+						"polygon": [
+							2.5739,
+							0.1337,
+							2.8126,
+							0.1337,
+							2.8126,
+							0.2578,
+							2.5739,
+							0.2578
+						],
+						"confidence": 0.986,
+						"span": {
+							"offset": 1253,
+							"length": 4
+						}
+					},
+					{
+						"content": "review)",
+						"polygon": [
+							2.8413,
+							0.1337,
+							3.2281,
+							0.1337,
+							3.2281,
+							0.2578,
+							2.8365,
+							0.2578
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 1258,
+							"length": 7
+						}
+					},
+					{
+						"content": "is",
+						"polygon": [
+							3.252,
+							0.1337,
+							3.3379,
+							0.1337,
+							3.3331,
+							0.2578,
+							3.252,
+							0.2578
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 1266,
+							"length": 2
+						}
+					},
+					{
+						"content": "the",
+						"polygon": [
+							3.3618,
+							0.1337,
+							3.5289,
+							0.1337,
+							3.5242,
+							0.2578,
+							3.3618,
+							0.2578
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 1269,
+							"length": 3
+						}
+					},
+					{
+						"content": "author/funder,",
+						"polygon": [
+							3.5528,
+							0.1337,
+							4.25,
+							0.1337,
+							4.2452,
+							0.2578,
+							3.5528,
+							0.2578
+						],
+						"confidence": 0.992,
+						"span": {
+							"offset": 1273,
+							"length": 14
+						}
+					},
+					{
+						"content": "who",
+						"polygon": [
+							4.2739,
+							0.1337,
+							4.4792,
+							0.1337,
+							4.4792,
+							0.2578,
+							4.2691,
+							0.2578
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 1288,
+							"length": 3
+						}
+					},
+					{
+						"content": "has",
+						"polygon": [
+							4.5031,
+							0.1337,
+							4.6941,
+							0.1337,
+							4.6941,
+							0.2626,
+							4.5031,
+							0.2578
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 1292,
+							"length": 3
+						}
+					},
+					{
+						"content": "granted",
+						"polygon": [
+							4.7228,
+							0.1337,
+							5.1,
+							0.1385,
+							5.1,
+							0.2626,
+							4.718,
+							0.2626
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 1296,
+							"length": 7
+						}
+					},
+					{
+						"content": "medRxiv",
+						"polygon": [
+							5.1287,
+							0.1385,
+							5.568,
+							0.1385,
+							5.5632,
+							0.2626,
+							5.1239,
+							0.2626
+						],
+						"confidence": 0.958,
+						"span": {
+							"offset": 1304,
+							"length": 7
+						}
+					},
+					{
+						"content": "a",
+						"polygon": [
+							5.5919,
+							0.1385,
+							5.6587,
+							0.1385,
+							5.6539,
+							0.2626,
+							5.5871,
+							0.2626
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 1312,
+							"length": 1
+						}
+					},
+					{
+						"content": "license",
+						"polygon": [
+							5.6826,
+							0.1385,
+							6.0312,
+							0.1385,
+							6.0264,
+							0.2626,
+							5.6778,
+							0.2626
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 1314,
+							"length": 7
+						}
+					},
+					{
+						"content": "to",
+						"polygon": [
+							6.0551,
+							0.1385,
+							6.1553,
+							0.1385,
+							6.1506,
+							0.2626,
+							6.0503,
+							0.2626
+						],
+						"confidence": 0.998,
+						"span": {
+							"offset": 1322,
+							"length": 2
+						}
+					},
+					{
+						"content": "display",
+						"polygon": [
+							6.1792,
+							0.1385,
+							6.5374,
+							0.1385,
+							6.5326,
+							0.2674,
+							6.1744,
+							0.2626
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 1325,
+							"length": 7
+						}
+					},
+					{
+						"content": "the",
+						"polygon": [
+							6.5612,
+							0.1385,
+							6.7188,
+							0.1385,
+							6.714,
+							0.2674,
+							6.5565,
+							0.2674
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 1333,
+							"length": 3
+						}
+					},
+					{
+						"content": "preprint",
+						"polygon": [
+							6.7427,
+							0.1385,
+							7.1247,
+							0.1385,
+							7.1199,
+							0.2674,
+							6.7379,
+							0.2674
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 1337,
+							"length": 8
+						}
+					},
+					{
+						"content": "in",
+						"polygon": [
+							7.1486,
+							0.1385,
+							7.2489,
+							0.1385,
+							7.2441,
+							0.2674,
+							7.1438,
+							0.2674
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 1346,
+							"length": 2
+						}
+					},
+					{
+						"content": "perpetuity.",
+						"polygon": [
+							7.2728,
+							0.1385,
+							7.8124,
+							0.1385,
+							7.8124,
+							0.2721,
+							7.268,
+							0.2674
+						],
+						"confidence": 0.991,
+						"span": {
+							"offset": 1349,
+							"length": 11
+						}
+					},
+					{
+						"content": "It",
+						"polygon": [
+							2.5452,
+							0.3581,
+							2.593,
+							0.3581,
+							2.5978,
+							0.4822,
+							2.55,
+							0.4774
+						],
+						"confidence": 0.89,
+						"span": {
+							"offset": 1361,
+							"length": 2
+						}
+					},
+					{
+						"content": "is",
+						"polygon": [
+							2.6169,
+							0.3533,
+							2.7028,
+							0.3533,
+							2.7076,
+							0.4822,
+							2.6216,
+							0.4822
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 1364,
+							"length": 2
+						}
+					},
+					{
+						"content": "made",
+						"polygon": [
+							2.7267,
+							0.3533,
+							3.018,
+							0.3533,
+							3.018,
+							0.4822,
+							2.7315,
+							0.4822
+						],
+						"confidence": 0.989,
+						"span": {
+							"offset": 1367,
+							"length": 4
+						}
+					},
+					{
+						"content": "available",
+						"polygon": [
+							3.0419,
+							0.3533,
+							3.4907,
+							0.3533,
+							3.4955,
+							0.4822,
+							3.0466,
+							0.4822
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 1372,
+							"length": 9
+						}
+					},
+					{
+						"content": "under",
+						"polygon": [
+							3.5146,
+							0.3485,
+							3.8107,
+							0.3485,
+							3.8154,
+							0.4822,
+							3.5194,
+							0.4822
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 1382,
+							"length": 5
+						}
+					},
+					{
+						"content": "a",
+						"polygon": [
+							3.8346,
+							0.3485,
+							3.8966,
+							0.3485,
+							3.9014,
+							0.4822,
+							3.8393,
+							0.4822
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 1388,
+							"length": 1
+						}
+					},
+					{
+						"content": "CC-BY-NC-ND",
+						"polygon": [
+							3.9205,
+							0.3485,
+							4.6607,
+							0.3485,
+							4.6654,
+							0.4822,
+							3.9253,
+							0.4822
+						],
+						"confidence": 0.991,
+						"span": {
+							"offset": 1390,
+							"length": 11
+						}
+					},
+					{
+						"content": "4.0",
+						"polygon": [
+							4.6989,
+							0.3485,
+							4.8565,
+							0.3485,
+							4.8612,
+							0.4822,
+							4.7037,
+							0.4822
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 1402,
+							"length": 3
+						}
+					},
+					{
+						"content": "International",
+						"polygon": [
+							4.8851,
+							0.3485,
+							5.5011,
+							0.3533,
+							5.5059,
+							0.4822,
+							4.8899,
+							0.4822
+						],
+						"confidence": 0.886,
+						"span": {
+							"offset": 1406,
+							"length": 13
+						}
+					},
+					{
+						"content": "license",
+						"polygon": [
+							5.525,
+							0.3533,
+							5.8784,
+							0.3533,
+							5.8879,
+							0.4774,
+							5.5298,
+							0.4822
+						],
+						"confidence": 0.996,
+						"span": {
+							"offset": 1420,
+							"length": 7
+						}
+					},
+					{
+						"content": ".",
+						"polygon": [
+							5.907,
+							0.3533,
+							5.95,
+							0.3533,
+							5.9548,
+							0.4774,
+							5.9118,
+							0.4774
+						],
+						"confidence": 0.96,
+						"span": {
+							"offset": 1428,
+							"length": 1
+						}
+					},
+					{
+						"content": "ABSTRACT",
+						"polygon": [
+							0.616,
+							0.6398,
+							1.4708,
+							0.6398,
+							1.466,
+							0.7878,
+							0.6112,
+							0.7925
+						],
+						"confidence": 0.991,
+						"span": {
+							"offset": 1430,
+							"length": 8
+						}
+					},
+					{
+						"content": "Purpose:",
+						"polygon": [
+							0.616,
+							1.0265,
+							1.2511,
+							1.0217,
+							1.2463,
+							1.2031,
+							0.6112,
+							1.2079
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 1439,
+							"length": 8
+						}
+					},
+					{
+						"content": "The",
+						"polygon": [
+							1.2846,
+							1.0217,
+							1.5472,
+							1.0217,
+							1.5424,
+							1.2031,
+							1.2798,
+							1.2031
+						],
+						"confidence": 0.998,
+						"span": {
+							"offset": 1448,
+							"length": 3
+						}
+					},
+					{
+						"content": "purpose",
+						"polygon": [
+							1.5806,
+							1.0217,
+							2.1154,
+							1.0217,
+							2.1154,
+							1.1984,
+							1.5806,
+							1.2031
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 1452,
+							"length": 7
+						}
+					},
+					{
+						"content": "of",
+						"polygon": [
+							2.1537,
+							1.0217,
+							2.3017,
+							1.0217,
+							2.2969,
+							1.1984,
+							2.1489,
+							1.1984
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 1460,
+							"length": 2
+						}
+					},
+					{
+						"content": "this",
+						"polygon": [
+							2.3351,
+							1.0217,
+							2.5739,
+							1.0217,
+							2.5691,
+							1.1984,
+							2.3303,
+							1.1984
+						],
+						"confidence": 0.987,
+						"span": {
+							"offset": 1463,
+							"length": 4
+						}
+					},
+					{
+						"content": "study",
+						"polygon": [
+							2.6073,
+							1.0169,
+							2.9846,
+							1.0169,
+							2.9798,
+							1.1936,
+							2.6073,
+							1.1984
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 1468,
+							"length": 5
+						}
+					},
+					{
+						"content": "was",
+						"polygon": [
+							3.018,
+							1.0169,
+							3.2806,
+							1.0169,
+							3.2758,
+							1.1936,
+							3.0132,
+							1.1936
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 1474,
+							"length": 3
+						}
+					},
+					{
+						"content": "to",
+						"polygon": [
+							3.314,
+							1.0169,
+							3.4525,
+							1.0169,
+							3.4478,
+							1.1936,
+							3.314,
+							1.1936
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 1478,
+							"length": 2
+						}
+					},
+					{
+						"content": "determine",
+						"polygon": [
+							3.486,
+							1.0169,
+							4.1688,
+							1.0169,
+							4.1688,
+							1.1888,
+							3.4812,
+							1.1936
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 1481,
+							"length": 9
+						}
+					},
+					{
+						"content": "the",
+						"polygon": [
+							4.207,
+							1.0169,
+							4.4076,
+							1.0169,
+							4.4076,
+							1.1888,
+							4.2022,
+							1.1888
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 1491,
+							"length": 3
+						}
+					},
+					{
+						"content": "case",
+						"polygon": [
+							4.4458,
+							1.0169,
+							4.7419,
+							1.0169,
+							4.7371,
+							1.1888,
+							4.441,
+							1.1888
+						],
+						"confidence": 0.991,
+						"span": {
+							"offset": 1495,
+							"length": 4
+						}
+					},
+					{
+						"content": "and",
+						"polygon": [
+							4.7753,
+							1.0169,
+							5.0236,
+							1.0169,
+							5.0236,
+							1.1888,
+							4.7705,
+							1.1888
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 1500,
+							"length": 3
+						}
+					},
+					{
+						"content": "incidence",
+						"polygon": [
+							5.0618,
+							1.0169,
+							5.6969,
+							1.0217,
+							5.6969,
+							1.1888,
+							5.057,
+							1.1888
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 1504,
+							"length": 9
+						}
+					},
+					{
+						"content": "rates",
+						"polygon": [
+							5.7351,
+							1.0217,
+							6.0646,
+							1.0217,
+							6.0598,
+							1.1888,
+							5.7303,
+							1.1888
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 1514,
+							"length": 5
+						}
+					},
+					{
+						"content": "of",
+						"polygon": [
+							6.098,
+							1.0217,
+							6.2461,
+							1.0217,
+							6.2413,
+							1.1888,
+							6.0933,
+							1.1888
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 1520,
+							"length": 2
+						}
+					},
+					{
+						"content": "COVID-19",
+						"polygon": [
+							6.2795,
+							1.0217,
+							7.034,
+							1.0265,
+							7.0292,
+							1.1936,
+							6.2795,
+							1.1888
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 1523,
+							"length": 8
+						}
+					},
+					{
+						"content": "among",
+						"polygon": [
+							7.0674,
+							1.0265,
+							7.5449,
+							1.0265,
+							7.5402,
+							1.1936,
+							7.0626,
+							1.1936
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 1532,
+							"length": 5
+						}
+					},
+					{
+						"content": "youth",
+						"polygon": [
+							0.616,
+							1.4132,
+							0.9789,
+							1.4084,
+							0.9789,
+							1.5898,
+							0.616,
+							1.5898
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 1538,
+							"length": 5
+						}
+					},
+					{
+						"content": "soccer",
+						"polygon": [
+							1.0124,
+							1.4084,
+							1.4469,
+							1.4084,
+							1.4469,
+							1.5898,
+							1.0124,
+							1.5898
+						],
+						"confidence": 0.996,
+						"span": {
+							"offset": 1544,
+							"length": 6
+						}
+					},
+					{
+						"content": "players",
+						"polygon": [
+							1.4851,
+							1.4084,
+							1.977,
+							1.4084,
+							1.977,
+							1.5851,
+							1.4851,
+							1.5898
+						],
+						"confidence": 0.996,
+						"span": {
+							"offset": 1551,
+							"length": 7
+						}
+					},
+					{
+						"content": "and",
+						"polygon": [
+							2.0104,
+							1.4084,
+							2.2587,
+							1.4036,
+							2.2587,
+							1.5851,
+							2.0104,
+							1.5851
+						],
+						"confidence": 0.998,
+						"span": {
+							"offset": 1559,
+							"length": 3
+						}
+					},
+					{
+						"content": "evaluate",
+						"polygon": [
+							2.2921,
+							1.4036,
+							2.8556,
+							1.4036,
+							2.8556,
+							1.5851,
+							2.2921,
+							1.5851
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 1563,
+							"length": 8
+						}
+					},
+					{
+						"content": "the",
+						"polygon": [
+							2.8938,
+							1.4036,
+							3.0896,
+							1.4036,
+							3.0896,
+							1.5851,
+							2.889,
+							1.5851
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 1572,
+							"length": 3
+						}
+					},
+					{
+						"content": "relationship",
+						"polygon": [
+							3.1278,
+							1.4036,
+							3.9348,
+							1.4036,
+							3.9348,
+							1.5851,
+							3.123,
+							1.5851
+						],
+						"confidence": 0.992,
+						"span": {
+							"offset": 1576,
+							"length": 12
+						}
+					},
+					{
+						"content": "with",
+						"polygon": [
+							3.973,
+							1.4036,
+							4.2643,
+							1.4036,
+							4.2643,
+							1.5803,
+							3.9683,
+							1.5851
+						],
+						"confidence": 0.988,
+						"span": {
+							"offset": 1589,
+							"length": 4
+						}
+					},
+					{
+						"content": "background",
+						"polygon": [
+							4.3025,
+							1.4036,
+							5.1,
+							1.4036,
+							5.0952,
+							1.5803,
+							4.2978,
+							1.5803
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 1594,
+							"length": 10
+						}
+					},
+					{
+						"content": "COVID-19",
+						"polygon": [
+							5.1334,
+							1.4036,
+							5.8831,
+							1.4036,
+							5.8831,
+							1.5803,
+							5.1334,
+							1.5803
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 1605,
+							"length": 8
+						}
+					},
+					{
+						"content": "risk",
+						"polygon": [
+							5.9213,
+							1.4036,
+							6.1888,
+							1.4036,
+							6.1888,
+							1.5803,
+							5.9166,
+							1.5803
+						],
+						"confidence": 0.991,
+						"span": {
+							"offset": 1614,
+							"length": 4
+						}
+					},
+					{
+						"content": "and",
+						"polygon": [
+							6.227,
+							1.4036,
+							6.461,
+							1.4036,
+							6.4562,
+							1.5803,
+							6.2222,
+							1.5803
+						],
+						"confidence": 0.998,
+						"span": {
+							"offset": 1619,
+							"length": 3
+						}
+					},
+					{
+						"content": "phase",
+						"polygon": [
+							6.4944,
+							1.4036,
+							6.8955,
+							1.4036,
+							6.8907,
+							1.5803,
+							6.4944,
+							1.5803
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 1623,
+							"length": 5
+						}
+					},
+					{
+						"content": "of",
+						"polygon": [
+							6.9289,
+							1.4036,
+							7.0722,
+							1.4084,
+							7.0674,
+							1.5803,
+							6.9289,
+							1.5803
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 1629,
+							"length": 2
+						}
+					},
+					{
+						"content": "return",
+						"polygon": [
+							7.1056,
+							1.4084,
+							7.5067,
+							1.4084,
+							7.502,
+							1.5851,
+							7.1008,
+							1.5803
+						],
+						"confidence": 0.996,
+						"span": {
+							"offset": 1632,
+							"length": 6
+						}
+					},
+					{
+						"content": "to",
+						"polygon": [
+							7.5402,
+							1.4084,
+							7.693,
+							1.4084,
+							7.693,
+							1.5851,
+							7.5354,
+							1.5851
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 1639,
+							"length": 2
+						}
+					},
+					{
+						"content": "play.",
+						"polygon": [
+							0.5969,
+							1.7951,
+							0.9455,
+							1.7904,
+							0.9455,
+							1.967,
+							0.6017,
+							1.9718
+						],
+						"confidence": 0.996,
+						"span": {
+							"offset": 1642,
+							"length": 5
+						}
+					},
+					{
+						"content": "Methods:",
+						"polygon": [
+							0.6112,
+							2.1723,
+							1.275,
+							2.1723,
+							1.275,
+							2.3394,
+							0.6112,
+							2.3346
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 1648,
+							"length": 8
+						}
+					},
+					{
+						"content": "Surveys",
+						"polygon": [
+							1.3132,
+							2.1723,
+							1.8671,
+							2.1675,
+							1.8671,
+							2.3442,
+							1.3132,
+							2.3394
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 1657,
+							"length": 7
+						}
+					},
+					{
+						"content": "were",
+						"polygon": [
+							1.9006,
+							2.1675,
+							2.2301,
+							2.1675,
+							2.2301,
+							2.349,
+							1.9006,
+							2.3442
+						],
+						"confidence": 0.986,
+						"span": {
+							"offset": 1665,
+							"length": 4
+						}
+					},
+					{
+						"content": "distributed",
+						"polygon": [
+							2.2635,
+							2.1675,
+							2.9846,
+							2.1675,
+							2.9846,
+							2.349,
+							2.2635,
+							2.349
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 1670,
+							"length": 11
+						}
+					},
+					{
+						"content": "to",
+						"polygon": [
+							3.018,
+							2.1675,
+							3.1469,
+							2.1675,
+							3.1469,
+							2.349,
+							3.018,
+							2.349
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 1682,
+							"length": 2
+						}
+					},
+					{
+						"content": "soccer",
+						"polygon": [
+							3.1803,
+							2.1675,
+							3.6197,
+							2.1675,
+							3.6197,
+							2.3537,
+							3.1851,
+							2.349
+						],
+						"confidence": 0.996,
+						"span": {
+							"offset": 1685,
+							"length": 6
+						}
+					},
+					{
+						"content": "clubs",
+						"polygon": [
+							3.6531,
+							2.1675,
+							4.016,
+							2.1675,
+							4.0208,
+							2.3537,
+							3.6531,
+							2.3537
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 1692,
+							"length": 5
+						}
+					},
+					{
+						"content": "throughout",
+						"polygon": [
+							4.0542,
+							2.1675,
+							4.7944,
+							2.1675,
+							4.7944,
+							2.3537,
+							4.0542,
+							2.3537
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 1698,
+							"length": 10
+						}
+					},
+					{
+						"content": "the",
+						"polygon": [
+							4.8278,
+							2.1675,
+							5.0427,
+							2.1675,
+							5.0427,
+							2.3537,
+							4.8326,
+							2.3537
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 1709,
+							"length": 3
+						}
+					},
+					{
+						"content": "country",
+						"polygon": [
+							5.0761,
+							2.1675,
+							5.5823,
+							2.1675,
+							5.5823,
+							2.3537,
+							5.0761,
+							2.3537
+						],
+						"confidence": 0.996,
+						"span": {
+							"offset": 1713,
+							"length": 7
+						}
+					},
+					{
+						"content": "regarding",
+						"polygon": [
+							5.6157,
+							2.1675,
+							6.2652,
+							2.1675,
+							6.2652,
+							2.3537,
+							5.6205,
+							2.3537
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 1721,
+							"length": 9
+						}
+					},
+					{
+						"content": "their",
+						"polygon": [
+							6.2986,
+							2.1675,
+							6.6185,
+							2.1675,
+							6.6185,
+							2.3537,
+							6.3034,
+							2.3537
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 1731,
+							"length": 5
+						}
+					},
+					{
+						"content": "phase",
+						"polygon": [
+							6.652,
+							2.1675,
+							7.0388,
+							2.1675,
+							7.0435,
+							2.349,
+							6.652,
+							2.3537
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 1737,
+							"length": 5
+						}
+					},
+					{
+						"content": "of",
+						"polygon": [
+							7.077,
+							2.1675,
+							7.2154,
+							2.1675,
+							7.2202,
+							2.349,
+							7.077,
+							2.349
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 1743,
+							"length": 2
+						}
+					},
+					{
+						"content": "return",
+						"polygon": [
+							7.2537,
+							2.1675,
+							7.6643,
+							2.1723,
+							7.6643,
+							2.349,
+							7.2537,
+							2.349
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 1746,
+							"length": 6
+						}
+					},
+					{
+						"content": "to",
+						"polygon": [
+							7.6978,
+							2.1723,
+							7.8458,
+							2.1723,
+							7.8458,
+							2.349,
+							7.7025,
+							2.349
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 1753,
+							"length": 2
+						}
+					},
+					{
+						"content": "soccer",
+						"polygon": [
+							0.6112,
+							2.559,
+							1.0267,
+							2.559,
+							1.0219,
+							2.7357,
+							0.6065,
+							2.7357
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 1756,
+							"length": 6
+						}
+					},
+					{
+						"content": "(individual",
+						"polygon": [
+							1.0601,
+							2.559,
+							1.8098,
+							2.559,
+							1.8051,
+							2.7405,
+							1.0601,
+							2.7357
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 1763,
+							"length": 11
+						}
+					},
+					{
+						"content": "only,",
+						"polygon": [
+							1.8433,
+							2.559,
+							2.1919,
+							2.559,
+							2.1919,
+							2.7405,
+							1.8385,
+							2.7405
+						],
+						"confidence": 0.996,
+						"span": {
+							"offset": 1775,
+							"length": 5
+						}
+					},
+					{
+						"content": "group",
+						"polygon": [
+							2.2253,
+							2.559,
+							2.6121,
+							2.559,
+							2.6073,
+							2.7405,
+							2.2253,
+							2.7405
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 1781,
+							"length": 5
+						}
+					},
+					{
+						"content": "non-contact,",
+						"polygon": [
+							2.6455,
+							2.559,
+							3.486,
+							2.559,
+							3.486,
+							2.7405,
+							2.6455,
+							2.7405
+						],
+						"confidence": 0.991,
+						"span": {
+							"offset": 1787,
+							"length": 12
+						}
+					},
+					{
+						"content": "group",
+						"polygon": [
+							3.5242,
+							2.559,
+							3.9205,
+							2.559,
+							3.9157,
+							2.7405,
+							3.5194,
+							2.7405
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 1800,
+							"length": 5
+						}
+					},
+					{
+						"content": "contact)",
+						"polygon": [
+							3.9539,
+							2.559,
+							4.5031,
+							2.559,
+							4.4983,
+							2.7405,
+							3.9492,
+							2.7405
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 1806,
+							"length": 8
+						}
+					},
+					{
+						"content": "and",
+						"polygon": [
+							4.5365,
+							2.559,
+							4.7801,
+							2.559,
+							4.7801,
+							2.7405,
+							4.5365,
+							2.7405
+						],
+						"confidence": 0.998,
+						"span": {
+							"offset": 1815,
+							"length": 3
+						}
+					},
+					{
+						"content": "date",
+						"polygon": [
+							4.8183,
+							2.559,
+							5.1096,
+							2.559,
+							5.1048,
+							2.7405,
+							4.8135,
+							2.7405
+						],
+						"confidence": 0.988,
+						"span": {
+							"offset": 1819,
+							"length": 4
+						}
+					},
+					{
+						"content": "of",
+						"polygon": [
+							5.143,
+							2.559,
+							5.2815,
+							2.559,
+							5.2815,
+							2.7405,
+							5.143,
+							2.7405
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 1824,
+							"length": 2
+						}
+					},
+					{
+						"content": "reinitiation,",
+						"polygon": [
+							5.3197,
+							2.559,
+							6.098,
+							2.559,
+							6.098,
+							2.7357,
+							5.3149,
+							2.7405
+						],
+						"confidence": 0.992,
+						"span": {
+							"offset": 1827,
+							"length": 13
+						}
+					},
+					{
+						"content": "number",
+						"polygon": [
+							6.1362,
+							2.559,
+							6.6472,
+							2.559,
+							6.6472,
+							2.7357,
+							6.1315,
+							2.7357
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 1841,
+							"length": 6
+						}
+					},
+					{
+						"content": "of",
+						"polygon": [
+							6.6854,
+							2.559,
+							6.8239,
+							2.559,
+							6.8191,
+							2.7357,
+							6.6806,
+							2.7357
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 1848,
+							"length": 2
+						}
+					},
+					{
+						"content": "players,",
+						"polygon": [
+							6.8573,
+							2.559,
+							7.3969,
+							2.559,
+							7.3921,
+							2.7357,
+							6.8573,
+							2.7357
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 1851,
+							"length": 8
+						}
+					},
+					{
+						"content": "cases",
+						"polygon": [
+							7.4303,
+							2.559,
+							7.7933,
+							2.559,
+							7.7933,
+							2.7309,
+							7.4303,
+							2.7357
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 1860,
+							"length": 5
+						}
+					},
+					{
+						"content": "of",
+						"polygon": [
+							0.6112,
+							2.9362,
+							0.7354,
+							2.9362,
+							0.7354,
+							3.1033,
+							0.6112,
+							3.1033
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 1866,
+							"length": 2
+						}
+					},
+					{
+						"content": "COVID-19,",
+						"polygon": [
+							0.7736,
+							2.9362,
+							1.5806,
+							2.9362,
+							1.5806,
+							3.1128,
+							0.7688,
+							3.1033
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 1869,
+							"length": 9
+						}
+					},
+					{
+						"content": "and",
+						"polygon": [
+							1.614,
+							2.9362,
+							1.8576,
+							2.9362,
+							1.8576,
+							3.1128,
+							1.614,
+							3.1128
+						],
+						"confidence": 0.998,
+						"span": {
+							"offset": 1879,
+							"length": 3
+						}
+					},
+					{
+						"content": "risk",
+						"polygon": [
+							1.891,
+							2.9362,
+							2.1441,
+							2.9362,
+							2.1441,
+							3.1176,
+							1.891,
+							3.1128
+						],
+						"confidence": 0.987,
+						"span": {
+							"offset": 1883,
+							"length": 4
+						}
+					},
+					{
+						"content": "reduction",
+						"polygon": [
+							2.1775,
+							2.9362,
+							2.827,
+							2.9362,
+							2.827,
+							3.1176,
+							2.1775,
+							3.1176
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 1888,
+							"length": 9
+						}
+					},
+					{
+						"content": "procedures",
+						"polygon": [
+							2.8604,
+							2.9362,
+							3.6006,
+							2.9362,
+							3.5958,
+							3.1224,
+							2.8604,
+							3.1224
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 1898,
+							"length": 10
+						}
+					},
+					{
+						"content": "that",
+						"polygon": [
+							3.634,
+							2.9362,
+							3.8966,
+							2.9362,
+							3.8966,
+							3.1224,
+							3.634,
+							3.1224
+						],
+						"confidence": 0.987,
+						"span": {
+							"offset": 1909,
+							"length": 4
+						}
+					},
+					{
+						"content": "were",
+						"polygon": [
+							3.9348,
+							2.9362,
+							4.2452,
+							2.9362,
+							4.2452,
+							3.1224,
+							3.9348,
+							3.1224
+						],
+						"confidence": 0.987,
+						"span": {
+							"offset": 1914,
+							"length": 4
+						}
+					},
+					{
+						"content": "being",
+						"polygon": [
+							4.2787,
+							2.9362,
+							4.6702,
+							2.9362,
+							4.6702,
+							3.1224,
+							4.2787,
+							3.1224
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 1919,
+							"length": 5
+						}
+					},
+					{
+						"content": "implemented.",
+						"polygon": [
+							4.7084,
+							2.9362,
+							5.6539,
+							2.9362,
+							5.6539,
+							3.1176,
+							4.7037,
+							3.1224
+						],
+						"confidence": 0.991,
+						"span": {
+							"offset": 1925,
+							"length": 12
+						}
+					},
+					{
+						"content": "Overall",
+						"polygon": [
+							5.6874,
+							2.9362,
+							6.2079,
+							2.9362,
+							6.2079,
+							3.1128,
+							5.6874,
+							3.1176
+						],
+						"confidence": 0.996,
+						"span": {
+							"offset": 1938,
+							"length": 7
+						}
+					},
+					{
+						"content": "case",
+						"polygon": [
+							6.2413,
+							2.9362,
+							6.5278,
+							2.9362,
+							6.5278,
+							3.1081,
+							6.2413,
+							3.1128
+						],
+						"confidence": 0.988,
+						"span": {
+							"offset": 1946,
+							"length": 4
+						}
+					},
+					{
+						"content": "and",
+						"polygon": [
+							6.566,
+							2.9362,
+							6.8191,
+							2.9362,
+							6.8191,
+							3.1081,
+							6.5612,
+							3.1081
+						],
+						"confidence": 0.998,
+						"span": {
+							"offset": 1951,
+							"length": 3
+						}
+					},
+					{
+						"content": "incidence",
+						"polygon": [
+							6.8525,
+							2.9362,
+							7.4876,
+							2.9362,
+							7.4876,
+							3.0985,
+							6.8525,
+							3.1081
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 1955,
+							"length": 9
+						}
+					},
+					{
+						"content": "rates",
+						"polygon": [
+							7.5211,
+							2.9362,
+							7.8601,
+							2.9362,
+							7.8601,
+							3.0938,
+							7.5211,
+							3.0985
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 1965,
+							"length": 5
+						}
+					},
+					{
+						"content": "were",
+						"polygon": [
+							0.6065,
+							3.3372,
+							0.9264,
+							3.3372,
+							0.9312,
+							3.5091,
+							0.6112,
+							3.5091
+						],
+						"confidence": 0.979,
+						"span": {
+							"offset": 1971,
+							"length": 4
+						}
+					},
+					{
+						"content": "compared",
+						"polygon": [
+							0.9598,
+							3.3372,
+							1.6284,
+							3.3325,
+							1.6331,
+							3.5043,
+							0.9646,
+							3.5091
+						],
+						"confidence": 0.996,
+						"span": {
+							"offset": 1976,
+							"length": 8
+						}
+					},
+					{
+						"content": "to",
+						"polygon": [
+							1.6618,
+							3.3325,
+							1.786,
+							3.3325,
+							1.7907,
+							3.5043,
+							1.6666,
+							3.5043
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 1985,
+							"length": 2
+						}
+					},
+					{
+						"content": "national",
+						"polygon": [
+							1.8242,
+							3.3325,
+							2.3733,
+							3.3277,
+							2.3781,
+							3.5043,
+							1.8289,
+							3.5043
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 1988,
+							"length": 8
+						}
+					},
+					{
+						"content": "pediatric",
+						"polygon": [
+							2.4067,
+							3.3277,
+							3.0084,
+							3.3229,
+							3.0132,
+							3.5043,
+							2.4163,
+							3.5043
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 1997,
+							"length": 9
+						}
+					},
+					{
+						"content": "data",
+						"polygon": [
+							3.0419,
+							3.3229,
+							3.3284,
+							3.3229,
+							3.3331,
+							3.5043,
+							3.0466,
+							3.5043
+						],
+						"confidence": 0.988,
+						"span": {
+							"offset": 2007,
+							"length": 4
+						}
+					},
+					{
+						"content": "and",
+						"polygon": [
+							3.3666,
+							3.3229,
+							3.6053,
+							3.3229,
+							3.6101,
+							3.4996,
+							3.3713,
+							3.5043
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 2012,
+							"length": 3
+						}
+					},
+					{
+						"content": "county",
+						"polygon": [
+							3.6388,
+							3.3229,
+							4.102,
+							3.3229,
+							4.1067,
+							3.4996,
+							3.6483,
+							3.4996
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 2016,
+							"length": 6
+						}
+					},
+					{
+						"content": "data",
+						"polygon": [
+							4.1354,
+							3.3229,
+							4.4219,
+							3.3229,
+							4.4267,
+							3.4996,
+							4.1402,
+							3.4996
+						],
+						"confidence": 0.988,
+						"span": {
+							"offset": 2023,
+							"length": 4
+						}
+					},
+					{
+						"content": "from",
+						"polygon": [
+							4.4601,
+							3.3229,
+							4.7562,
+							3.3229,
+							4.761,
+							3.4996,
+							4.4649,
+							3.4996
+						],
+						"confidence": 0.998,
+						"span": {
+							"offset": 2028,
+							"length": 4
+						}
+					},
+					{
+						"content": "the",
+						"polygon": [
+							4.8278,
+							3.3229,
+							5.0331,
+							3.3229,
+							5.0379,
+							3.4996,
+							4.8326,
+							3.4996
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 2033,
+							"length": 3
+						}
+					},
+					{
+						"content": "prior",
+						"polygon": [
+							5.0666,
+							3.3229,
+							5.4152,
+							3.3229,
+							5.4199,
+							3.4996,
+							5.0713,
+							3.4996
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 2037,
+							"length": 5
+						}
+					},
+					{
+						"content": "10",
+						"polygon": [
+							5.4486,
+							3.3229,
+							5.611,
+							3.3229,
+							5.6157,
+							3.4996,
+							5.4534,
+							3.4996
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 2043,
+							"length": 2
+						}
+					},
+					{
+						"content": "weeks",
+						"polygon": [
+							5.6444,
+							3.3229,
+							6.0694,
+							3.3229,
+							6.0742,
+							3.4996,
+							5.6492,
+							3.4996
+						],
+						"confidence": 0.996,
+						"span": {
+							"offset": 2046,
+							"length": 5
+						}
+					},
+					{
+						"content": "where",
+						"polygon": [
+							6.1028,
+							3.3229,
+							6.5087,
+							3.3229,
+							6.5135,
+							3.4996,
+							6.1076,
+							3.4996
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 2052,
+							"length": 5
+						}
+					},
+					{
+						"content": "available.",
+						"polygon": [
+							6.5421,
+							3.3229,
+							7.1963,
+							3.3229,
+							7.2011,
+							3.4948,
+							6.5469,
+							3.4996
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 2058,
+							"length": 10
+						}
+					},
+					{
+						"content": "Finally,",
+						"polygon": [
+							7.2298,
+							3.3229,
+							7.7742,
+							3.3277,
+							7.7837,
+							3.4948,
+							7.2393,
+							3.4948
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 2069,
+							"length": 8
+						}
+					},
+					{
+						"content": "a",
+						"polygon": [
+							0.6112,
+							3.7192,
+							0.6685,
+							3.7192,
+							0.6685,
+							3.8863,
+							0.6112,
+							3.8863
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 2078,
+							"length": 1
+						}
+					},
+					{
+						"content": "negative",
+						"polygon": [
+							0.702,
+							3.7192,
+							1.2846,
+							3.7144,
+							1.2846,
+							3.8911,
+							0.702,
+							3.8863
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 2080,
+							"length": 8
+						}
+					},
+					{
+						"content": "binomial",
+						"polygon": [
+							1.318,
+							3.7144,
+							1.9244,
+							3.7096,
+							1.9244,
+							3.8911,
+							1.318,
+							3.8911
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 2089,
+							"length": 8
+						}
+					},
+					{
+						"content": "regression",
+						"polygon": [
+							1.9579,
+							3.7096,
+							2.6455,
+							3.7096,
+							2.6455,
+							3.8911,
+							1.9579,
+							3.8911
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 2098,
+							"length": 10
+						}
+					},
+					{
+						"content": "model",
+						"polygon": [
+							2.6789,
+							3.7096,
+							3.1087,
+							3.7049,
+							3.1087,
+							3.8911,
+							2.6789,
+							3.8911
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 2109,
+							"length": 5
+						}
+					},
+					{
+						"content": "was",
+						"polygon": [
+							3.1421,
+							3.7049,
+							3.4096,
+							3.7049,
+							3.4096,
+							3.8911,
+							3.1421,
+							3.8911
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 2115,
+							"length": 3
+						}
+					},
+					{
+						"content": "developed",
+						"polygon": [
+							3.443,
+							3.7049,
+							4.1306,
+							3.7049,
+							4.1306,
+							3.8911,
+							3.4478,
+							3.8911
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 2119,
+							"length": 9
+						}
+					},
+					{
+						"content": "to",
+						"polygon": [
+							4.164,
+							3.7049,
+							4.3073,
+							3.7049,
+							4.3073,
+							3.8863,
+							4.164,
+							3.8911
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 2129,
+							"length": 2
+						}
+					},
+					{
+						"content": "predict",
+						"polygon": [
+							4.3407,
+							3.7049,
+							4.8183,
+							3.7049,
+							4.8183,
+							3.8863,
+							4.3407,
+							3.8863
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 2132,
+							"length": 7
+						}
+					},
+					{
+						"content": "club",
+						"polygon": [
+							4.8517,
+							3.7049,
+							5.143,
+							3.7049,
+							5.143,
+							3.8863,
+							4.8517,
+							3.8863
+						],
+						"confidence": 0.986,
+						"span": {
+							"offset": 2140,
+							"length": 4
+						}
+					},
+					{
+						"content": "COVID-19",
+						"polygon": [
+							5.1764,
+							3.7049,
+							5.9309,
+							3.7049,
+							5.9309,
+							3.8815,
+							5.1764,
+							3.8863
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 2145,
+							"length": 8
+						}
+					},
+					{
+						"content": "cases",
+						"polygon": [
+							5.9643,
+							3.7049,
+							6.3368,
+							3.7049,
+							6.3416,
+							3.8767,
+							5.9691,
+							3.8815
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 2154,
+							"length": 5
+						}
+					},
+					{
+						"content": "with",
+						"polygon": [
+							6.375,
+							3.7049,
+							6.6615,
+							3.7049,
+							6.6663,
+							3.8767,
+							6.375,
+							3.8767
+						],
+						"confidence": 0.988,
+						"span": {
+							"offset": 2160,
+							"length": 4
+						}
+					},
+					{
+						"content": "local",
+						"polygon": [
+							6.6997,
+							3.7049,
+							7.034,
+							3.7049,
+							7.0388,
+							3.872,
+							6.6997,
+							3.8767
+						],
+						"confidence": 0.996,
+						"span": {
+							"offset": 2165,
+							"length": 5
+						}
+					},
+					{
+						"content": "incidence",
+						"polygon": [
+							7.0722,
+							3.7049,
+							7.736,
+							3.7049,
+							7.736,
+							3.8672,
+							7.0722,
+							3.872
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 2171,
+							"length": 9
+						}
+					},
+					{
+						"content": "rate",
+						"polygon": [
+							0.6065,
+							4.0964,
+							0.8596,
+							4.0916,
+							0.8596,
+							4.2682,
+							0.6112,
+							4.2682
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 2181,
+							"length": 4
+						}
+					},
+					{
+						"content": "and",
+						"polygon": [
+							0.893,
+							4.0916,
+							1.1365,
+							4.0916,
+							1.1365,
+							4.2682,
+							0.8978,
+							4.2682
+						],
+						"confidence": 0.998,
+						"span": {
+							"offset": 2186,
+							"length": 3
+						}
+					},
+					{
+						"content": "phase",
+						"polygon": [
+							1.1699,
+							4.0916,
+							1.5663,
+							4.0916,
+							1.5663,
+							4.2682,
+							1.1747,
+							4.2682
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 2190,
+							"length": 5
+						}
+					},
+					{
+						"content": "of",
+						"polygon": [
+							1.5997,
+							4.0916,
+							1.7382,
+							4.0916,
+							1.7382,
+							4.2682,
+							1.5997,
+							4.2682
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 2196,
+							"length": 2
+						}
+					},
+					{
+						"content": "return",
+						"polygon": [
+							1.7716,
+							4.0916,
+							2.1775,
+							4.0916,
+							2.1775,
+							4.2682,
+							1.7716,
+							4.2682
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 2199,
+							"length": 6
+						}
+					},
+					{
+						"content": "as",
+						"polygon": [
+							2.211,
+							4.0916,
+							2.359,
+							4.0916,
+							2.3638,
+							4.2682,
+							2.211,
+							4.2682
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 2206,
+							"length": 2
+						}
+					},
+					{
+						"content": "covariates",
+						"polygon": [
+							2.3972,
+							4.0916,
+							3.0753,
+							4.0916,
+							3.0801,
+							4.2682,
+							2.3972,
+							4.2682
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 2209,
+							"length": 10
+						}
+					},
+					{
+						"content": "and",
+						"polygon": [
+							3.1135,
+							4.0916,
+							3.3522,
+							4.0916,
+							3.357,
+							4.2682,
+							3.1135,
+							4.2682
+						],
+						"confidence": 0.998,
+						"span": {
+							"offset": 2220,
+							"length": 3
+						}
+					},
+					{
+						"content": "the",
+						"polygon": [
+							3.3904,
+							4.0916,
+							3.5958,
+							4.0916,
+							3.5958,
+							4.2682,
+							3.3904,
+							4.2682
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 2224,
+							"length": 3
+						}
+					},
+					{
+						"content": "log",
+						"polygon": [
+							3.6292,
+							4.0916,
+							3.8632,
+							4.0916,
+							3.8632,
+							4.2682,
+							3.634,
+							4.2682
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 2228,
+							"length": 3
+						}
+					},
+					{
+						"content": "of",
+						"polygon": [
+							3.8966,
+							4.0916,
+							4.0447,
+							4.0916,
+							4.0494,
+							4.2682,
+							3.8966,
+							4.2682
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 2232,
+							"length": 2
+						}
+					},
+					{
+						"content": "club",
+						"polygon": [
+							4.0829,
+							4.0916,
+							4.3694,
+							4.0916,
+							4.3694,
+							4.2682,
+							4.0829,
+							4.2682
+						],
+						"confidence": 0.987,
+						"span": {
+							"offset": 2235,
+							"length": 4
+						}
+					},
+					{
+						"content": "player-days",
+						"polygon": [
+							4.4028,
+							4.0916,
+							5.1907,
+							4.0916,
+							5.1907,
+							4.2682,
+							4.4076,
+							4.2682
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 2240,
+							"length": 11
+						}
+					},
+					{
+						"content": "as",
+						"polygon": [
+							5.2242,
+							4.0916,
+							5.377,
+							4.0916,
+							5.377,
+							4.2682,
+							5.2242,
+							4.2682
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 2252,
+							"length": 2
+						}
+					},
+					{
+						"content": "an",
+						"polygon": [
+							5.4104,
+							4.0916,
+							5.5728,
+							4.0916,
+							5.5728,
+							4.2682,
+							5.4104,
+							4.2682
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 2255,
+							"length": 2
+						}
+					},
+					{
+						"content": "offset.",
+						"polygon": [
+							5.6062,
+							4.0916,
+							6.036,
+							4.0916,
+							6.036,
+							4.2682,
+							5.6062,
+							4.2682
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 2258,
+							"length": 7
+						}
+					},
+					{
+						"content": "Results:",
+						"polygon": [
+							0.6017,
+							4.4735,
+							1.1938,
+							4.4735,
+							1.1938,
+							4.6454,
+							0.6065,
+							4.6454
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 2266,
+							"length": 8
+						}
+					},
+					{
+						"content": "129",
+						"polygon": [
+							1.2272,
+							4.4735,
+							1.466,
+							4.4735,
+							1.466,
+							4.6454,
+							1.232,
+							4.6454
+						],
+						"confidence": 0.998,
+						"span": {
+							"offset": 2275,
+							"length": 3
+						}
+					},
+					{
+						"content": "clubs",
+						"polygon": [
+							1.4994,
+							4.4735,
+							1.8528,
+							4.4735,
+							1.8576,
+							4.6502,
+							1.5042,
+							4.6454
+						],
+						"confidence": 0.996,
+						"span": {
+							"offset": 2279,
+							"length": 5
+						}
+					},
+					{
+						"content": "responded,",
+						"polygon": [
+							1.891,
+							4.4735,
+							2.636,
+							4.4735,
+							2.636,
+							4.6502,
+							1.891,
+							4.6502
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 2285,
+							"length": 10
+						}
+					},
+					{
+						"content": "of",
+						"polygon": [
+							2.6742,
+							4.4735,
+							2.827,
+							4.4735,
+							2.827,
+							4.6502,
+							2.6742,
+							4.6502
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 2296,
+							"length": 2
+						}
+					},
+					{
+						"content": "whom",
+						"polygon": [
+							2.8604,
+							4.4735,
+							3.2376,
+							4.4735,
+							3.2376,
+							4.6502,
+							2.8604,
+							4.6502
+						],
+						"confidence": 0.988,
+						"span": {
+							"offset": 2299,
+							"length": 4
+						}
+					},
+					{
+						"content": "124",
+						"polygon": [
+							3.3236,
+							4.4735,
+							3.5576,
+							4.4735,
+							3.5624,
+							4.6549,
+							3.3236,
+							4.6502
+						],
+						"confidence": 0.998,
+						"span": {
+							"offset": 2304,
+							"length": 3
+						}
+					},
+					{
+						"content": "had",
+						"polygon": [
+							3.5958,
+							4.4735,
+							3.8441,
+							4.4735,
+							3.8441,
+							4.6549,
+							3.5958,
+							4.6549
+						],
+						"confidence": 0.998,
+						"span": {
+							"offset": 2308,
+							"length": 3
+						}
+					},
+					{
+						"content": "reinitiated",
+						"polygon": [
+							3.8775,
+							4.4735,
+							4.5652,
+							4.4735,
+							4.5652,
+							4.6549,
+							3.8775,
+							4.6549
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 2312,
+							"length": 11
+						}
+					},
+					{
+						"content": "soccer,",
+						"polygon": [
+							4.6034,
+							4.4735,
+							5.0761,
+							4.4735,
+							5.0761,
+							4.6549,
+							4.5986,
+							4.6549
+						],
+						"confidence": 0.996,
+						"span": {
+							"offset": 2324,
+							"length": 7
+						}
+					},
+					{
+						"content": "representing",
+						"polygon": [
+							5.1096,
+							4.4735,
+							5.95,
+							4.4735,
+							5.95,
+							4.6549,
+							5.1096,
+							4.6549
+						],
+						"confidence": 0.992,
+						"span": {
+							"offset": 2332,
+							"length": 12
+						}
+					},
+					{
+						"content": "91,007",
+						"polygon": [
+							5.9882,
+							4.4735,
+							6.4466,
+							4.4735,
+							6.4466,
+							4.6549,
+							5.9834,
+							4.6549
+						],
+						"confidence": 0.996,
+						"span": {
+							"offset": 2345,
+							"length": 6
+						}
+					},
+					{
+						"content": "players",
+						"polygon": [
+							6.4848,
+							4.4735,
+							6.9815,
+							4.4735,
+							6.9767,
+							4.6549,
+							6.4801,
+							4.6549
+						],
+						"confidence": 0.996,
+						"span": {
+							"offset": 2352,
+							"length": 7
+						}
+					},
+					{
+						"content": "with",
+						"polygon": [
+							7.0149,
+							4.4735,
+							7.311,
+							4.4735,
+							7.311,
+							4.6549,
+							7.0149,
+							4.6549
+						],
+						"confidence": 0.988,
+						"span": {
+							"offset": 2360,
+							"length": 4
+						}
+					},
+					{
+						"content": "a",
+						"polygon": [
+							7.3492,
+							4.4735,
+							7.4447,
+							4.4735,
+							7.4399,
+							4.6549,
+							7.3444,
+							4.6549
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 2365,
+							"length": 1
+						}
+					},
+					{
+						"content": "median",
+						"polygon": [
+							0.6065,
+							4.8602,
+							1.0935,
+							4.8602,
+							1.0935,
+							5.0321,
+							0.6065,
+							5.0321
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 2367,
+							"length": 6
+						}
+					},
+					{
+						"content": "duration",
+						"polygon": [
+							1.127,
+							4.8602,
+							1.7,
+							4.8602,
+							1.7,
+							5.0369,
+							1.127,
+							5.0321
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 2374,
+							"length": 8
+						}
+					},
+					{
+						"content": "of",
+						"polygon": [
+							1.7334,
+							4.8602,
+							1.8862,
+							4.8602,
+							1.8862,
+							5.0369,
+							1.7334,
+							5.0369
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 2383,
+							"length": 2
+						}
+					},
+					{
+						"content": "73",
+						"polygon": [
+							1.9197,
+							4.8602,
+							2.082,
+							4.8602,
+							2.082,
+							5.0369,
+							1.9197,
+							5.0369
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 2386,
+							"length": 2
+						}
+					},
+					{
+						"content": "days",
+						"polygon": [
+							2.1154,
+							4.8602,
+							2.4306,
+							4.8602,
+							2.4306,
+							5.0369,
+							2.1154,
+							5.0369
+						],
+						"confidence": 0.987,
+						"span": {
+							"offset": 2389,
+							"length": 4
+						}
+					},
+					{
+						"content": "(IQR:",
+						"polygon": [
+							2.464,
+							4.8602,
+							2.8604,
+							4.8602,
+							2.8652,
+							5.0369,
+							2.4688,
+							5.0369
+						],
+						"confidence": 0.991,
+						"span": {
+							"offset": 2394,
+							"length": 5
+						}
+					},
+					{
+						"content": "53-83",
+						"polygon": [
+							2.8986,
+							4.8602,
+							3.2902,
+							4.8602,
+							3.2949,
+							5.0369,
+							2.8986,
+							5.0369
+						],
+						"confidence": 0.996,
+						"span": {
+							"offset": 2400,
+							"length": 5
+						}
+					},
+					{
+						"content": "days)",
+						"polygon": [
+							3.3284,
+							4.8602,
+							3.6865,
+							4.8602,
+							3.6913,
+							5.0369,
+							3.3284,
+							5.0369
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 2406,
+							"length": 5
+						}
+					},
+					{
+						"content": "since",
+						"polygon": [
+							3.7247,
+							4.8602,
+							4.0829,
+							4.8602,
+							4.0876,
+							5.0417,
+							3.7247,
+							5.0369
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 2412,
+							"length": 5
+						}
+					},
+					{
+						"content": "restarting.",
+						"polygon": [
+							4.1163,
+							4.8602,
+							4.8374,
+							4.8602,
+							4.8469,
+							5.0417,
+							4.1211,
+							5.0417
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 2418,
+							"length": 11
+						}
+					},
+					{
+						"content": "Of",
+						"polygon": [
+							4.8756,
+							4.8602,
+							5.0475,
+							4.8602,
+							5.0522,
+							5.0417,
+							4.8803,
+							5.0417
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 2430,
+							"length": 2
+						}
+					},
+					{
+						"content": "the",
+						"polygon": [
+							5.0857,
+							4.8602,
+							5.3053,
+							4.8602,
+							5.3101,
+							5.0417,
+							5.0904,
+							5.0417
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 2433,
+							"length": 3
+						}
+					},
+					{
+						"content": "119",
+						"polygon": [
+							5.3388,
+							4.8602,
+							5.5823,
+							4.8602,
+							5.5919,
+							5.0417,
+							5.3435,
+							5.0417
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 2437,
+							"length": 3
+						}
+					},
+					{
+						"content": "that",
+						"polygon": [
+							5.6205,
+							4.8602,
+							5.8736,
+							4.865,
+							5.8831,
+							5.0417,
+							5.6253,
+							5.0417
+						],
+						"confidence": 0.989,
+						"span": {
+							"offset": 2441,
+							"length": 4
+						}
+					},
+					{
+						"content": "had",
+						"polygon": [
+							5.907,
+							4.865,
+							6.1649,
+							4.865,
+							6.1744,
+							5.0417,
+							5.9166,
+							5.0417
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 2446,
+							"length": 3
+						}
+					},
+					{
+						"content": "progressed",
+						"polygon": [
+							6.1983,
+							4.865,
+							6.9194,
+							4.865,
+							6.9289,
+							5.0417,
+							6.2079,
+							5.0417
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 2450,
+							"length": 10
+						}
+					},
+					{
+						"content": "to",
+						"polygon": [
+							6.9576,
+							4.865,
+							7.0961,
+							4.865,
+							7.1056,
+							5.0417,
+							6.9671,
+							5.0417
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 2461,
+							"length": 2
+						}
+					},
+					{
+						"content": "group",
+						"polygon": [
+							7.1295,
+							4.8698,
+							7.5449,
+							4.8698,
+							7.5593,
+							5.0417,
+							7.139,
+							5.0417
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 2464,
+							"length": 5
+						}
+					},
+					{
+						"content": "activities,",
+						"polygon": [
+							0.6112,
+							5.247,
+							1.2463,
+							5.2422,
+							1.2463,
+							5.4141,
+							0.6112,
+							5.4093
+						],
+						"confidence": 0.931,
+						"span": {
+							"offset": 2470,
+							"length": 11
+						}
+					},
+					{
+						"content": "218",
+						"polygon": [
+							1.2798,
+							5.2422,
+							1.5376,
+							5.2422,
+							1.5376,
+							5.4141,
+							1.2846,
+							5.4141
+						],
+						"confidence": 0.998,
+						"span": {
+							"offset": 2482,
+							"length": 3
+						}
+					},
+					{
+						"content": "cases",
+						"polygon": [
+							1.5711,
+							5.2422,
+							1.9292,
+							5.2422,
+							1.934,
+							5.4188,
+							1.5711,
+							5.4141
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 2486,
+							"length": 5
+						}
+					},
+					{
+						"content": "of",
+						"polygon": [
+							1.9674,
+							5.2422,
+							2.1154,
+							5.2422,
+							2.1202,
+							5.4188,
+							1.9674,
+							5.4188
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 2492,
+							"length": 2
+						}
+					},
+					{
+						"content": "COVID-19",
+						"polygon": [
+							2.1537,
+							5.2422,
+							2.9081,
+							5.2422,
+							2.9081,
+							5.4188,
+							2.1537,
+							5.4188
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 2495,
+							"length": 8
+						}
+					},
+					{
+						"content": "were",
+						"polygon": [
+							2.9416,
+							5.2422,
+							3.2663,
+							5.2422,
+							3.2663,
+							5.4236,
+							2.9416,
+							5.4188
+						],
+						"confidence": 0.989,
+						"span": {
+							"offset": 2504,
+							"length": 4
+						}
+					},
+					{
+						"content": "reported",
+						"polygon": [
+							3.2997,
+							5.2422,
+							3.868,
+							5.2422,
+							3.868,
+							5.4236,
+							3.2997,
+							5.4236
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 2509,
+							"length": 8
+						}
+					},
+					{
+						"content": "among",
+						"polygon": [
+							3.9062,
+							5.2422,
+							4.3694,
+							5.2422,
+							4.3694,
+							5.4236,
+							3.9062,
+							5.4236
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 2518,
+							"length": 5
+						}
+					},
+					{
+						"content": "85,861",
+						"polygon": [
+							4.4028,
+							5.2422,
+							4.8708,
+							5.2422,
+							4.866,
+							5.4236,
+							4.4028,
+							5.4236
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 2524,
+							"length": 6
+						}
+					},
+					{
+						"content": "players.",
+						"polygon": [
+							4.9042,
+							5.2422,
+							5.4868,
+							5.2422,
+							5.482,
+							5.4236,
+							4.9042,
+							5.4236
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 2531,
+							"length": 8
+						}
+					},
+					{
+						"content": "Youth",
+						"polygon": [
+							5.5202,
+							5.2422,
+							5.9261,
+							5.2422,
+							5.9213,
+							5.4236,
+							5.5154,
+							5.4236
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 2540,
+							"length": 5
+						}
+					},
+					{
+						"content": "soccer",
+						"polygon": [
+							5.9596,
+							5.2422,
+							6.4037,
+							5.2422,
+							6.3989,
+							5.4236,
+							5.9596,
+							5.4236
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 2546,
+							"length": 6
+						}
+					},
+					{
+						"content": "players",
+						"polygon": [
+							6.4371,
+							5.2422,
+							6.9242,
+							5.2422,
+							6.9194,
+							5.4188,
+							6.4323,
+							5.4188
+						],
+						"confidence": 0.996,
+						"span": {
+							"offset": 2553,
+							"length": 7
+						}
+					},
+					{
+						"content": "had",
+						"polygon": [
+							6.9576,
+							5.2422,
+							7.2154,
+							5.2422,
+							7.2107,
+							5.4188,
+							6.9576,
+							5.4188
+						],
+						"confidence": 0.998,
+						"span": {
+							"offset": 2561,
+							"length": 3
+						}
+					},
+					{
+						"content": "a",
+						"polygon": [
+							7.2489,
+							5.2422,
+							7.3205,
+							5.2422,
+							7.3157,
+							5.4188,
+							7.2441,
+							5.4188
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 2565,
+							"length": 1
+						}
+					},
+					{
+						"content": "lower",
+						"polygon": [
+							7.3539,
+							5.2422,
+							7.7646,
+							5.247,
+							7.7598,
+							5.4141,
+							7.3492,
+							5.4188
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 2567,
+							"length": 5
+						}
+					},
+					{
+						"content": "case",
+						"polygon": [
+							0.6112,
+							5.6337,
+							0.8882,
+							5.6337,
+							0.8882,
+							5.7865,
+							0.6112,
+							5.7865
+						],
+						"confidence": 0.992,
+						"span": {
+							"offset": 2573,
+							"length": 4
+						}
+					},
+					{
+						"content": "rate",
+						"polygon": [
+							0.9216,
+							5.6337,
+							1.189,
+							5.6337,
+							1.189,
+							5.7865,
+							0.9216,
+							5.7865
+						],
+						"confidence": 0.989,
+						"span": {
+							"offset": 2578,
+							"length": 4
+						}
+					},
+					{
+						"content": "and",
+						"polygon": [
+							1.2225,
+							5.6337,
+							1.4708,
+							5.6289,
+							1.4708,
+							5.7912,
+							1.2225,
+							5.7865
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 2583,
+							"length": 3
+						}
+					},
+					{
+						"content": "incidence",
+						"polygon": [
+							1.5042,
+							5.6289,
+							2.1537,
+							5.6289,
+							2.1537,
+							5.7912,
+							1.5042,
+							5.7912
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 2587,
+							"length": 9
+						}
+					},
+					{
+						"content": "rate",
+						"polygon": [
+							2.1871,
+							5.6289,
+							2.4449,
+							5.6241,
+							2.4449,
+							5.7912,
+							2.1871,
+							5.7912
+						],
+						"confidence": 0.988,
+						"span": {
+							"offset": 2597,
+							"length": 4
+						}
+					},
+					{
+						"content": "than",
+						"polygon": [
+							2.4784,
+							5.6241,
+							2.7697,
+							5.6241,
+							2.7697,
+							5.796,
+							2.4784,
+							5.7912
+						],
+						"confidence": 0.987,
+						"span": {
+							"offset": 2602,
+							"length": 4
+						}
+					},
+					{
+						"content": "the",
+						"polygon": [
+							2.8031,
+							5.6241,
+							3.0132,
+							5.6241,
+							3.018,
+							5.796,
+							2.8031,
+							5.796
+						],
+						"confidence": 0.998,
+						"span": {
+							"offset": 2607,
+							"length": 3
+						}
+					},
+					{
+						"content": "national",
+						"polygon": [
+							3.0514,
+							5.6241,
+							3.5958,
+							5.6241,
+							3.6006,
+							5.796,
+							3.0514,
+							5.796
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 2611,
+							"length": 8
+						}
+					},
+					{
+						"content": "rate",
+						"polygon": [
+							3.634,
+							5.6241,
+							3.8871,
+							5.6241,
+							3.8919,
+							5.796,
+							3.634,
+							5.796
+						],
+						"confidence": 0.988,
+						"span": {
+							"offset": 2620,
+							"length": 4
+						}
+					},
+					{
+						"content": "for",
+						"polygon": [
+							3.9253,
+							5.6241,
+							4.1258,
+							5.6194,
+							4.1258,
+							5.796,
+							3.9253,
+							5.796
+						],
+						"confidence": 0.998,
+						"span": {
+							"offset": 2625,
+							"length": 3
+						}
+					},
+					{
+						"content": "children",
+						"polygon": [
+							4.1593,
+							5.6194,
+							4.718,
+							5.6194,
+							4.718,
+							5.8008,
+							4.1593,
+							5.796
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 2629,
+							"length": 8
+						}
+					},
+					{
+						"content": "in",
+						"polygon": [
+							4.7514,
+							5.6194,
+							4.8851,
+							5.6194,
+							4.8851,
+							5.8008,
+							4.7514,
+							5.8008
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 2638,
+							"length": 2
+						}
+					},
+					{
+						"content": "the",
+						"polygon": [
+							4.9185,
+							5.6194,
+							5.1334,
+							5.6194,
+							5.1334,
+							5.8008,
+							4.9185,
+							5.8008
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 2641,
+							"length": 3
+						}
+					},
+					{
+						"content": "US",
+						"polygon": [
+							5.1669,
+							5.6194,
+							5.3865,
+							5.6194,
+							5.3865,
+							5.8008,
+							5.1669,
+							5.8008
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 2645,
+							"length": 2
+						}
+					},
+					{
+						"content": "(254",
+						"polygon": [
+							5.4247,
+							5.6194,
+							5.7399,
+							5.6194,
+							5.7399,
+							5.8008,
+							5.4247,
+							5.8008
+						],
+						"confidence": 0.991,
+						"span": {
+							"offset": 2648,
+							"length": 4
+						}
+					},
+					{
+						"content": "v.",
+						"polygon": [
+							5.7733,
+							5.6194,
+							5.907,
+							5.6194,
+							5.907,
+							5.8008,
+							5.7733,
+							5.8008
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 2653,
+							"length": 2
+						}
+					},
+					{
+						"content": "477",
+						"polygon": [
+							5.9404,
+							5.6194,
+							6.184,
+							5.6194,
+							6.184,
+							5.8008,
+							5.9404,
+							5.8008
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 2656,
+							"length": 3
+						}
+					},
+					{
+						"content": "cases",
+						"polygon": [
+							6.2174,
+							5.6194,
+							6.5803,
+							5.6194,
+							6.5803,
+							5.8008,
+							6.2222,
+							5.8008
+						],
+						"confidence": 0.996,
+						"span": {
+							"offset": 2660,
+							"length": 5
+						}
+					},
+					{
+						"content": "per",
+						"polygon": [
+							6.6138,
+							5.6194,
+							6.8573,
+							5.6194,
+							6.8573,
+							5.8008,
+							6.6138,
+							5.8008
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 2666,
+							"length": 3
+						}
+					},
+					{
+						"content": "100,000;",
+						"polygon": [
+							6.8907,
+							5.6194,
+							7.4638,
+							5.6241,
+							7.4638,
+							5.8008,
+							6.8907,
+							5.8008
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 2670,
+							"length": 8
+						}
+					},
+					{
+						"content": "IRR",
+						"polygon": [
+							7.4972,
+							5.6241,
+							7.7646,
+							5.6241,
+							7.7646,
+							5.8008,
+							7.4972,
+							5.8008
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 2679,
+							"length": 3
+						}
+					},
+					{
+						"content": "=",
+						"polygon": [
+							0.6065,
+							6.0013,
+							0.6972,
+							6.0013,
+							0.702,
+							6.178,
+							0.6112,
+							6.178
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 2683,
+							"length": 1
+						}
+					},
+					{
+						"content": "0.511,",
+						"polygon": [
+							0.7354,
+							6.0013,
+							1.1556,
+							6.0013,
+							1.1556,
+							6.1827,
+							0.7354,
+							6.178
+						],
+						"confidence": 0.992,
+						"span": {
+							"offset": 2685,
+							"length": 6
+						}
+					},
+					{
+						"content": "95%",
+						"polygon": [
+							1.189,
+							6.0013,
+							1.5042,
+							6.0013,
+							1.509,
+							6.1827,
+							1.1938,
+							6.1827
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 2692,
+							"length": 3
+						}
+					},
+					{
+						"content": "CI",
+						"polygon": [
+							1.5376,
+							6.0013,
+							1.7143,
+							6.0013,
+							1.7191,
+							6.1875,
+							1.5424,
+							6.1827
+						],
+						"confidence": 0.996,
+						"span": {
+							"offset": 2696,
+							"length": 2
+						}
+					},
+					{
+						"content": "=",
+						"polygon": [
+							1.7478,
+							6.0013,
+							1.8433,
+							6.0013,
+							1.8433,
+							6.1875,
+							1.7525,
+							6.1875
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 2699,
+							"length": 1
+						}
+					},
+					{
+						"content": "[0.40-0.57],",
+						"polygon": [
+							1.8767,
+							6.0013,
+							2.6837,
+							6.0013,
+							2.6837,
+							6.1923,
+							1.8815,
+							6.1875
+						],
+						"confidence": 0.883,
+						"span": {
+							"offset": 2701,
+							"length": 12
+						}
+					},
+					{
+						"content": "p<0.001)",
+						"polygon": [
+							2.7171,
+							6.0013,
+							3.3236,
+							6.0013,
+							3.3284,
+							6.1923,
+							2.7219,
+							6.1923
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 2714,
+							"length": 8
+						}
+					},
+					{
+						"content": "and",
+						"polygon": [
+							3.3618,
+							6.0061,
+							3.6053,
+							6.0061,
+							3.6053,
+							6.1923,
+							3.3618,
+							6.1923
+						],
+						"confidence": 0.998,
+						"span": {
+							"offset": 2723,
+							"length": 3
+						}
+					},
+					{
+						"content": "the",
+						"polygon": [
+							3.6388,
+							6.0061,
+							3.8632,
+							6.0061,
+							3.8632,
+							6.1923,
+							3.6435,
+							6.1923
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 2727,
+							"length": 3
+						}
+					},
+					{
+						"content": "general",
+						"polygon": [
+							3.8966,
+							6.0061,
+							4.3885,
+							6.0061,
+							4.3885,
+							6.1923,
+							3.8966,
+							6.1923
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 2731,
+							"length": 7
+						}
+					},
+					{
+						"content": "population",
+						"polygon": [
+							4.4219,
+							6.0061,
+							5.1478,
+							6.0061,
+							5.1478,
+							6.1875,
+							4.4219,
+							6.1923
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 2739,
+							"length": 10
+						}
+					},
+					{
+						"content": "from",
+						"polygon": [
+							5.1812,
+							6.0061,
+							5.4677,
+							6.0061,
+							5.4677,
+							6.1875,
+							5.1812,
+							6.1875
+						],
+						"confidence": 0.987,
+						"span": {
+							"offset": 2750,
+							"length": 4
+						}
+					},
+					{
+						"content": "the",
+						"polygon": [
+							5.5441,
+							6.0061,
+							5.7542,
+							6.0061,
+							5.7542,
+							6.1827,
+							5.5441,
+							6.1875
+						],
+						"confidence": 0.998,
+						"span": {
+							"offset": 2755,
+							"length": 3
+						}
+					},
+					{
+						"content": "counties",
+						"polygon": [
+							5.7876,
+							6.0061,
+							6.3607,
+							6.0061,
+							6.3607,
+							6.178,
+							5.7876,
+							6.1827
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 2759,
+							"length": 8
+						}
+					},
+					{
+						"content": "in",
+						"polygon": [
+							6.3941,
+							6.0061,
+							6.5326,
+							6.0061,
+							6.5326,
+							6.178,
+							6.3941,
+							6.178
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 2768,
+							"length": 2
+						}
+					},
+					{
+						"content": "which",
+						"polygon": [
+							6.5708,
+							6.0061,
+							6.9767,
+							6.0061,
+							6.9767,
+							6.1732,
+							6.5708,
+							6.178
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 2771,
+							"length": 5
+						}
+					},
+					{
+						"content": "soccer",
+						"polygon": [
+							7.0149,
+							6.0061,
+							7.4447,
+							6.0061,
+							7.4447,
+							6.1684,
+							7.0101,
+							6.1732
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 2777,
+							"length": 6
+						}
+					},
+					{
+						"content": "clubs",
+						"polygon": [
+							7.4781,
+							6.0061,
+							7.8458,
+							6.0061,
+							7.841,
+							6.1636,
+							7.4781,
+							6.1684
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 2784,
+							"length": 5
+						}
+					},
+					{
+						"content": "were",
+						"polygon": [
+							0.6065,
+							6.3976,
+							0.9216,
+							6.3976,
+							0.9264,
+							6.5551,
+							0.6112,
+							6.5551
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 2790,
+							"length": 4
+						}
+					},
+					{
+						"content": "based",
+						"polygon": [
+							0.9598,
+							6.3976,
+							1.3562,
+							6.3928,
+							1.361,
+							6.5599,
+							0.9598,
+							6.5551
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 2795,
+							"length": 5
+						}
+					},
+					{
+						"content": "where",
+						"polygon": [
+							1.3896,
+							6.3928,
+							1.8003,
+							6.3928,
+							1.8051,
+							6.5599,
+							1.3944,
+							6.5599
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 2801,
+							"length": 5
+						}
+					},
+					{
+						"content": "data",
+						"polygon": [
+							1.8385,
+							6.3928,
+							2.1202,
+							6.3928,
+							2.1202,
+							6.5647,
+							1.8385,
+							6.5599
+						],
+						"confidence": 0.986,
+						"span": {
+							"offset": 2807,
+							"length": 4
+						}
+					},
+					{
+						"content": "was",
+						"polygon": [
+							2.1537,
+							6.3928,
+							2.4258,
+							6.3928,
+							2.4258,
+							6.5647,
+							2.1584,
+							6.5647
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 2812,
+							"length": 3
+						}
+					},
+					{
+						"content": "available",
+						"polygon": [
+							2.4593,
+							6.3928,
+							3.0705,
+							6.388,
+							3.0705,
+							6.5694,
+							2.464,
+							6.5647
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 2816,
+							"length": 9
+						}
+					},
+					{
+						"content": "(268",
+						"polygon": [
+							3.1039,
+							6.388,
+							3.4191,
+							6.388,
+							3.4239,
+							6.5694,
+							3.1087,
+							6.5694
+						],
+						"confidence": 0.988,
+						"span": {
+							"offset": 2826,
+							"length": 4
+						}
+					},
+					{
+						"content": "v.",
+						"polygon": [
+							3.4573,
+							6.388,
+							3.5862,
+							6.388,
+							3.5862,
+							6.5694,
+							3.4573,
+							6.5694
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 2831,
+							"length": 2
+						}
+					},
+					{
+						"content": "864",
+						"polygon": [
+							3.6197,
+							6.388,
+							3.868,
+							6.388,
+							3.868,
+							6.5694,
+							3.6244,
+							6.5694
+						],
+						"confidence": 0.996,
+						"span": {
+							"offset": 2834,
+							"length": 3
+						}
+					},
+					{
+						"content": "cases",
+						"polygon": [
+							3.9014,
+							6.388,
+							4.2643,
+							6.388,
+							4.2691,
+							6.5694,
+							3.9062,
+							6.5694
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 2838,
+							"length": 5
+						}
+					},
+					{
+						"content": "per",
+						"polygon": [
+							4.3025,
+							6.388,
+							4.5365,
+							6.388,
+							4.5365,
+							6.5694,
+							4.3025,
+							6.5694
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 2844,
+							"length": 3
+						}
+					},
+					{
+						"content": "100,000;",
+						"polygon": [
+							4.5699,
+							6.3832,
+							5.143,
+							6.3832,
+							5.1478,
+							6.5742,
+							4.5747,
+							6.5694
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 2848,
+							"length": 8
+						}
+					},
+					{
+						"content": "IRR",
+						"polygon": [
+							5.1812,
+							6.3832,
+							5.4486,
+							6.3832,
+							5.4486,
+							6.5742,
+							5.1812,
+							6.5742
+						],
+						"confidence": 0.96,
+						"span": {
+							"offset": 2857,
+							"length": 3
+						}
+					},
+					{
+						"content": "=",
+						"polygon": [
+							5.5107,
+							6.3832,
+							5.6014,
+							6.3832,
+							5.6062,
+							6.5742,
+							5.5107,
+							6.5742
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 2861,
+							"length": 1
+						}
+					},
+					{
+						"content": "0.202",
+						"polygon": [
+							5.6396,
+							6.3832,
+							6.0264,
+							6.3832,
+							6.0264,
+							6.5742,
+							5.6396,
+							6.5742
+						],
+						"confidence": 0.996,
+						"span": {
+							"offset": 2863,
+							"length": 5
+						}
+					},
+					{
+						"content": "[0.19-0.21],",
+						"polygon": [
+							6.0598,
+							6.3832,
+							6.8573,
+							6.3832,
+							6.8573,
+							6.5742,
+							6.0598,
+							6.5742
+						],
+						"confidence": 0.967,
+						"span": {
+							"offset": 2869,
+							"length": 12
+						}
+					},
+					{
+						"content": "p<0.001).",
+						"polygon": [
+							6.8907,
+							6.3832,
+							7.564,
+							6.3832,
+							7.564,
+							6.5694,
+							6.8955,
+							6.5742
+						],
+						"confidence": 0.991,
+						"span": {
+							"offset": 2882,
+							"length": 9
+						}
+					},
+					{
+						"content": "After",
+						"polygon": [
+							0.6112,
+							6.77,
+							0.9551,
+							6.77,
+							0.9503,
+							6.9514,
+							0.6112,
+							6.9514
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 2892,
+							"length": 5
+						}
+					},
+					{
+						"content": "adjusting",
+						"polygon": [
+							0.9885,
+							6.77,
+							1.6093,
+							6.77,
+							1.6093,
+							6.9514,
+							0.9885,
+							6.9514
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 2898,
+							"length": 9
+						}
+					},
+					{
+						"content": "for",
+						"polygon": [
+							1.6427,
+							6.77,
+							1.8433,
+							6.77,
+							1.8385,
+							6.9514,
+							1.6427,
+							6.9514
+						],
+						"confidence": 0.998,
+						"span": {
+							"offset": 2908,
+							"length": 3
+						}
+					},
+					{
+						"content": "local",
+						"polygon": [
+							1.8767,
+							6.77,
+							2.211,
+							6.7747,
+							2.2062,
+							6.9514,
+							1.8719,
+							6.9514
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 2912,
+							"length": 5
+						}
+					},
+					{
+						"content": "COVID-19",
+						"polygon": [
+							2.2444,
+							6.7747,
+							3.0037,
+							6.7747,
+							3.0037,
+							6.9514,
+							2.2444,
+							6.9514
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 2918,
+							"length": 8
+						}
+					},
+					{
+						"content": "incidence,",
+						"polygon": [
+							3.0419,
+							6.7747,
+							3.7295,
+							6.7747,
+							3.7295,
+							6.9514,
+							3.0371,
+							6.9514
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 2927,
+							"length": 10
+						}
+					},
+					{
+						"content": "there",
+						"polygon": [
+							3.7677,
+							6.7747,
+							4.102,
+							6.7747,
+							4.0972,
+							6.9514,
+							3.7629,
+							6.9514
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 2938,
+							"length": 5
+						}
+					},
+					{
+						"content": "was",
+						"polygon": [
+							4.1354,
+							6.7747,
+							4.398,
+							6.7747,
+							4.398,
+							6.9514,
+							4.1354,
+							6.9514
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 2944,
+							"length": 3
+						}
+					},
+					{
+						"content": "no",
+						"polygon": [
+							4.4362,
+							6.7747,
+							4.6081,
+							6.7747,
+							4.6081,
+							6.9514,
+							4.4315,
+							6.9514
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 2948,
+							"length": 2
+						}
+					},
+					{
+						"content": "relationship",
+						"polygon": [
+							4.6416,
+							6.7747,
+							5.439,
+							6.7747,
+							5.4343,
+							6.9466,
+							4.6416,
+							6.9514
+						],
+						"confidence": 0.992,
+						"span": {
+							"offset": 2951,
+							"length": 12
+						}
+					},
+					{
+						"content": "between",
+						"polygon": [
+							5.4725,
+							6.7747,
+							6.036,
+							6.7747,
+							6.036,
+							6.9466,
+							5.4725,
+							6.9466
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 2964,
+							"length": 7
+						}
+					},
+					{
+						"content": "club",
+						"polygon": [
+							6.0694,
+							6.7747,
+							6.3702,
+							6.7747,
+							6.3702,
+							6.9466,
+							6.0694,
+							6.9466
+						],
+						"confidence": 0.987,
+						"span": {
+							"offset": 2972,
+							"length": 4
+						}
+					},
+					{
+						"content": "COVID-19",
+						"polygon": [
+							6.4037,
+							6.7747,
+							7.1534,
+							6.77,
+							7.1534,
+							6.9418,
+							6.4037,
+							6.9466
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 2977,
+							"length": 8
+						}
+					},
+					{
+						"content": "incidence",
+						"polygon": [
+							7.1868,
+							6.77,
+							7.8601,
+							6.77,
+							7.8601,
+							6.9418,
+							7.1868,
+							6.9418
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 2986,
+							"length": 9
+						}
+					},
+					{
+						"content": "and",
+						"polygon": [
+							0.6112,
+							7.1758,
+							0.8404,
+							7.1758,
+							0.8404,
+							7.3524,
+							0.6112,
+							7.3477
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 2996,
+							"length": 3
+						}
+					},
+					{
+						"content": "phase",
+						"polygon": [
+							0.8739,
+							7.1758,
+							1.2702,
+							7.171,
+							1.2702,
+							7.3524,
+							0.8739,
+							7.3524
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 3000,
+							"length": 5
+						}
+					},
+					{
+						"content": "of",
+						"polygon": [
+							1.3037,
+							7.171,
+							1.4469,
+							7.171,
+							1.4469,
+							7.3524,
+							1.3037,
+							7.3524
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 3006,
+							"length": 2
+						}
+					},
+					{
+						"content": "return",
+						"polygon": [
+							1.4803,
+							7.171,
+							1.8862,
+							7.171,
+							1.8862,
+							7.3524,
+							1.4803,
+							7.3524
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 3009,
+							"length": 6
+						}
+					},
+					{
+						"content": "(non-contact:",
+						"polygon": [
+							1.9244,
+							7.171,
+							2.8222,
+							7.171,
+							2.8222,
+							7.3524,
+							1.9244,
+							7.3524
+						],
+						"confidence": 0.991,
+						"span": {
+							"offset": 3016,
+							"length": 13
+						}
+					},
+					{
+						"content": "ß=0.35+0.67,",
+						"polygon": [
+							2.8556,
+							7.171,
+							3.7629,
+							7.1662,
+							3.7629,
+							7.3524,
+							2.8556,
+							7.3524
+						],
+						"confidence": 0.664,
+						"span": {
+							"offset": 3030,
+							"length": 12
+						}
+					},
+					{
+						"content": "p=0.61;",
+						"polygon": [
+							3.8011,
+							7.1662,
+							4.3216,
+							7.1662,
+							4.3216,
+							7.3524,
+							3.7963,
+							7.3524
+						],
+						"confidence": 0.991,
+						"span": {
+							"offset": 3043,
+							"length": 7
+						}
+					},
+					{
+						"content": "contact:",
+						"polygon": [
+							4.3598,
+							7.1662,
+							4.8947,
+							7.1662,
+							4.8947,
+							7.3524,
+							4.3598,
+							7.3524
+						],
+						"confidence": 0.991,
+						"span": {
+							"offset": 3051,
+							"length": 8
+						}
+					},
+					{
+						"content": "ß=0.18+0.67,",
+						"polygon": [
+							4.9281,
+							7.1662,
+							5.8402,
+							7.171,
+							5.8354,
+							7.3477,
+							4.9281,
+							7.3524
+						],
+						"confidence": 0.659,
+						"span": {
+							"offset": 3060,
+							"length": 12
+						}
+					},
+					{
+						"content": "p=0.79).",
+						"polygon": [
+							5.8736,
+							7.171,
+							6.4801,
+							7.171,
+							6.4801,
+							7.3429,
+							5.8736,
+							7.3477
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 3073,
+							"length": 8
+						}
+					},
+					{
+						"content": "No",
+						"polygon": [
+							6.5135,
+							7.171,
+							6.7236,
+							7.171,
+							6.7236,
+							7.3429,
+							6.5135,
+							7.3429
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 3082,
+							"length": 2
+						}
+					},
+					{
+						"content": "cases",
+						"polygon": [
+							6.7618,
+							7.171,
+							7.1343,
+							7.1758,
+							7.1295,
+							7.3381,
+							6.757,
+							7.3429
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 3085,
+							"length": 5
+						}
+					},
+					{
+						"content": "were",
+						"polygon": [
+							7.1677,
+							7.1758,
+							7.5067,
+							7.1758,
+							7.5067,
+							7.3381,
+							7.1677,
+							7.3381
+						],
+						"confidence": 0.988,
+						"span": {
+							"offset": 3091,
+							"length": 4
+						}
+					},
+					{
+						"content": "reported",
+						"polygon": [
+							0.6065,
+							7.5768,
+							1.1556,
+							7.5768,
+							1.1556,
+							7.7439,
+							0.6112,
+							7.7439
+						],
+						"confidence": 0.991,
+						"span": {
+							"offset": 3096,
+							"length": 8
+						}
+					},
+					{
+						"content": "to",
+						"polygon": [
+							1.189,
+							7.5768,
+							1.318,
+							7.5768,
+							1.3228,
+							7.7439,
+							1.1938,
+							7.7439
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 3105,
+							"length": 2
+						}
+					},
+					{
+						"content": "have",
+						"polygon": [
+							1.3514,
+							7.5768,
+							1.6809,
+							7.572,
+							1.6857,
+							7.7439,
+							1.3562,
+							7.7439
+						],
+						"confidence": 0.988,
+						"span": {
+							"offset": 3108,
+							"length": 4
+						}
+					},
+					{
+						"content": "resulted",
+						"polygon": [
+							1.7143,
+							7.572,
+							2.2539,
+							7.572,
+							2.2587,
+							7.7439,
+							1.7191,
+							7.7439
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 3113,
+							"length": 8
+						}
+					},
+					{
+						"content": "in",
+						"polygon": [
+							2.2874,
+							7.572,
+							2.4306,
+							7.572,
+							2.4306,
+							7.7439,
+							2.2921,
+							7.7439
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 3122,
+							"length": 2
+						}
+					},
+					{
+						"content": "hospitalization",
+						"polygon": [
+							2.464,
+							7.572,
+							3.4573,
+							7.5673,
+							3.4621,
+							7.7439,
+							2.4688,
+							7.7439
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 3125,
+							"length": 15
+						}
+					},
+					{
+						"content": "or",
+						"polygon": [
+							3.4907,
+							7.5673,
+							3.634,
+							7.5673,
+							3.634,
+							7.7439,
+							3.4955,
+							7.7439
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 3141,
+							"length": 2
+						}
+					},
+					{
+						"content": "death.",
+						"polygon": [
+							3.6674,
+							7.5673,
+							4.1354,
+							7.5673,
+							4.1402,
+							7.7439,
+							3.6722,
+							7.7439
+						],
+						"confidence": 0.996,
+						"span": {
+							"offset": 3144,
+							"length": 6
+						}
+					},
+					{
+						"content": "100%",
+						"polygon": [
+							4.1688,
+							7.5673,
+							4.5556,
+							7.5625,
+							4.5604,
+							7.7439,
+							4.1736,
+							7.7439
+						],
+						"confidence": 0.987,
+						"span": {
+							"offset": 3151,
+							"length": 4
+						}
+					},
+					{
+						"content": "of",
+						"polygon": [
+							4.5938,
+							7.5625,
+							4.7323,
+							7.5625,
+							4.7371,
+							7.7439,
+							4.5938,
+							7.7439
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 3156,
+							"length": 2
+						}
+					},
+					{
+						"content": "clubs",
+						"polygon": [
+							4.7657,
+							7.5625,
+							5.1287,
+							7.5625,
+							5.1334,
+							7.7487,
+							4.7705,
+							7.7439
+						],
+						"confidence": 0.996,
+						"span": {
+							"offset": 3159,
+							"length": 5
+						}
+					},
+					{
+						"content": "reported",
+						"polygon": [
+							5.1669,
+							7.5625,
+							5.7256,
+							7.5625,
+							5.7303,
+							7.7487,
+							5.1669,
+							7.7487
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 3165,
+							"length": 8
+						}
+					},
+					{
+						"content": "having",
+						"polygon": [
+							5.759,
+							7.5625,
+							6.227,
+							7.5673,
+							6.2317,
+							7.7487,
+							5.7638,
+							7.7487
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 3174,
+							"length": 6
+						}
+					},
+					{
+						"content": "a",
+						"polygon": [
+							6.2652,
+							7.5673,
+							6.332,
+							7.5673,
+							6.3368,
+							7.7487,
+							6.2652,
+							7.7487
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 3181,
+							"length": 1
+						}
+					},
+					{
+						"content": "plan",
+						"polygon": [
+							6.3702,
+							7.5673,
+							6.6711,
+							7.5673,
+							6.6758,
+							7.7535,
+							6.3702,
+							7.7487
+						],
+						"confidence": 0.988,
+						"span": {
+							"offset": 3183,
+							"length": 4
+						}
+					},
+					{
+						"content": "in",
+						"polygon": [
+							6.7093,
+							7.5673,
+							6.8382,
+							7.5673,
+							6.8382,
+							7.7535,
+							6.7093,
+							7.7535
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 3188,
+							"length": 2
+						}
+					},
+					{
+						"content": "place",
+						"polygon": [
+							6.8716,
+							7.5673,
+							7.2346,
+							7.5673,
+							7.2393,
+							7.7535,
+							6.8764,
+							7.7535
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 3191,
+							"length": 5
+						}
+					},
+					{
+						"content": "to",
+						"polygon": [
+							7.268,
+							7.5673,
+							7.4256,
+							7.5673,
+							7.4256,
+							7.7535,
+							7.2728,
+							7.7535
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 3197,
+							"length": 2
+						}
+					},
+					{
+						"content": "reduce",
+						"polygon": [
+							0.6017,
+							7.9492,
+							1.0506,
+							7.9492,
+							1.0506,
+							8.1211,
+							0.5969,
+							8.1163
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 3200,
+							"length": 6
+						}
+					},
+					{
+						"content": "the",
+						"polygon": [
+							1.0888,
+							7.9492,
+							1.2989,
+							7.9492,
+							1.2941,
+							8.1211,
+							1.084,
+							8.1211
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 3207,
+							"length": 3
+						}
+					},
+					{
+						"content": "risk",
+						"polygon": [
+							1.3323,
+							7.9492,
+							1.5902,
+							7.9492,
+							1.5902,
+							8.1259,
+							1.3323,
+							8.1211
+						],
+						"confidence": 0.988,
+						"span": {
+							"offset": 3211,
+							"length": 4
+						}
+					},
+					{
+						"content": "of",
+						"polygon": [
+							1.6284,
+							7.9492,
+							1.7764,
+							7.9492,
+							1.7764,
+							8.1259,
+							1.6236,
+							8.1259
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 3216,
+							"length": 2
+						}
+					},
+					{
+						"content": "COVID-19",
+						"polygon": [
+							1.8146,
+							7.9492,
+							2.5596,
+							7.9492,
+							2.5596,
+							8.1306,
+							1.8098,
+							8.1259
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 3219,
+							"length": 8
+						}
+					},
+					{
+						"content": "and",
+						"polygon": [
+							2.5978,
+							7.9492,
+							2.8413,
+							7.9492,
+							2.8413,
+							8.1306,
+							2.593,
+							8.1306
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 3228,
+							"length": 3
+						}
+					},
+					{
+						"content": "utilizing",
+						"polygon": [
+							2.8795,
+							7.9492,
+							3.4382,
+							7.9492,
+							3.4382,
+							8.1306,
+							2.8747,
+							8.1306
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 3232,
+							"length": 9
+						}
+					},
+					{
+						"content": "multiple",
+						"polygon": [
+							3.4764,
+							7.9492,
+							4.0494,
+							7.9492,
+							4.0447,
+							8.1354,
+							3.4716,
+							8.1306
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 3242,
+							"length": 8
+						}
+					},
+					{
+						"content": "different",
+						"polygon": [
+							4.0829,
+							7.9492,
+							4.6559,
+							7.9492,
+							4.6511,
+							8.1354,
+							4.0781,
+							8.1354
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 3251,
+							"length": 9
+						}
+					},
+					{
+						"content": "risk",
+						"polygon": [
+							4.6893,
+							7.9492,
+							4.9472,
+							7.9492,
+							4.9472,
+							8.1354,
+							4.6893,
+							8.1354
+						],
+						"confidence": 0.991,
+						"span": {
+							"offset": 3261,
+							"length": 4
+						}
+					},
+					{
+						"content": "reduction",
+						"polygon": [
+							4.9854,
+							7.9492,
+							5.6157,
+							7.9492,
+							5.611,
+							8.1354,
+							4.9806,
+							8.1354
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 3266,
+							"length": 9
+						}
+					},
+					{
+						"content": "procedures",
+						"polygon": [
+							5.6492,
+							7.9492,
+							6.3989,
+							7.9492,
+							6.3941,
+							8.1306,
+							5.6492,
+							8.1354
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 3276,
+							"length": 10
+						}
+					},
+					{
+						"content": "(median",
+						"polygon": [
+							6.4323,
+							7.9492,
+							6.9815,
+							7.9492,
+							6.9815,
+							8.1306,
+							6.4323,
+							8.1306
+						],
+						"confidence": 0.996,
+						"span": {
+							"offset": 3287,
+							"length": 7
+						}
+					},
+					{
+						"content": "8,",
+						"polygon": [
+							7.0197,
+							7.9492,
+							7.1581,
+							7.9492,
+							7.1581,
+							8.1306,
+							7.0149,
+							8.1306
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 3295,
+							"length": 2
+						}
+					},
+					{
+						"content": "IQR",
+						"polygon": [
+							7.1963,
+							7.9492,
+							7.459,
+							7.9492,
+							7.459,
+							8.1259,
+							7.1916,
+							8.1306
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 3298,
+							"length": 3
+						}
+					},
+					{
+						"content": "6-",
+						"polygon": [
+							7.5211,
+							7.9492,
+							7.6787,
+							7.9492,
+							7.6739,
+							8.1259,
+							7.5211,
+							8.1259
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 3302,
+							"length": 2
+						}
+					},
+					{
+						"content": "10).",
+						"polygon": [
+							0.6208,
+							8.3407,
+							0.8787,
+							8.3312,
+							0.8834,
+							8.503,
+							0.6208,
+							8.5126
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 3305,
+							"length": 4
+						}
+					},
+					{
+						"content": "Conclusions:",
+						"polygon": [
+							0.6208,
+							8.7131,
+							1.5329,
+							8.7131,
+							1.5329,
+							8.8802,
+							0.6208,
+							8.8802
+						],
+						"confidence": 0.991,
+						"span": {
+							"offset": 3310,
+							"length": 12
+						}
+					},
+					{
+						"content": "The",
+						"polygon": [
+							1.5663,
+							8.7131,
+							1.8194,
+							8.7131,
+							1.8194,
+							8.885,
+							1.5663,
+							8.885
+						],
+						"confidence": 0.991,
+						"span": {
+							"offset": 3323,
+							"length": 3
+						}
+					},
+					{
+						"content": "incidence",
+						"polygon": [
+							1.8528,
+							8.7131,
+							2.507,
+							8.7131,
+							2.5022,
+							8.885,
+							1.8528,
+							8.885
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 3327,
+							"length": 9
+						}
+					},
+					{
+						"content": "of",
+						"polygon": [
+							2.5404,
+							8.7131,
+							2.6885,
+							8.7131,
+							2.6885,
+							8.885,
+							2.5404,
+							8.885
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 3337,
+							"length": 2
+						}
+					},
+					{
+						"content": "COVID-19",
+						"polygon": [
+							2.7219,
+							8.7131,
+							3.4764,
+							8.7131,
+							3.4764,
+							8.8898,
+							2.7219,
+							8.885
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 3340,
+							"length": 8
+						}
+					},
+					{
+						"content": "among",
+						"polygon": [
+							3.5098,
+							8.7131,
+							3.9826,
+							8.7131,
+							3.9826,
+							8.8898,
+							3.5098,
+							8.8898
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 3349,
+							"length": 5
+						}
+					},
+					{
+						"content": "youth",
+						"polygon": [
+							4.016,
+							8.7131,
+							4.3933,
+							8.7131,
+							4.3933,
+							8.8898,
+							4.016,
+							8.8898
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 3355,
+							"length": 5
+						}
+					},
+					{
+						"content": "soccer",
+						"polygon": [
+							4.4267,
+							8.7131,
+							4.8612,
+							8.7131,
+							4.8612,
+							8.8898,
+							4.4267,
+							8.8898
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 3361,
+							"length": 6
+						}
+					},
+					{
+						"content": "athletes",
+						"polygon": [
+							4.8947,
+							8.7131,
+							5.4104,
+							8.7131,
+							5.4104,
+							8.8898,
+							4.8947,
+							8.8898
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 3368,
+							"length": 8
+						}
+					},
+					{
+						"content": "is",
+						"polygon": [
+							5.4438,
+							8.7131,
+							5.5584,
+							8.7131,
+							5.5632,
+							8.8898,
+							5.4486,
+							8.8898
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 3377,
+							"length": 2
+						}
+					},
+					{
+						"content": "relatively",
+						"polygon": [
+							5.5919,
+							8.7131,
+							6.2365,
+							8.7131,
+							6.2365,
+							8.8945,
+							5.5966,
+							8.8898
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 3380,
+							"length": 10
+						}
+					},
+					{
+						"content": "low",
+						"polygon": [
+							6.2699,
+							8.7131,
+							6.5039,
+							8.7131,
+							6.5087,
+							8.8945,
+							6.2699,
+							8.8945
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 3391,
+							"length": 3
+						}
+					},
+					{
+						"content": "when",
+						"polygon": [
+							6.566,
+							8.7131,
+							6.9337,
+							8.7131,
+							6.9337,
+							8.8945,
+							6.566,
+							8.8945
+						],
+						"confidence": 0.987,
+						"span": {
+							"offset": 3395,
+							"length": 4
+						}
+					},
+					{
+						"content": "compared",
+						"polygon": [
+							6.9671,
+							8.7131,
+							7.6309,
+							8.7131,
+							7.6309,
+							8.8945,
+							6.9671,
+							8.8945
+						],
+						"confidence": 0.996,
+						"span": {
+							"offset": 3400,
+							"length": 8
+						}
+					},
+					{
+						"content": "to",
+						"polygon": [
+							7.6643,
+							8.7131,
+							7.8028,
+							8.7131,
+							7.8076,
+							8.8945,
+							7.6691,
+							8.8945
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 3409,
+							"length": 2
+						}
+					},
+					{
+						"content": "the",
+						"polygon": [
+							0.6065,
+							9.0951,
+							0.8022,
+							9.0951,
+							0.8022,
+							9.2765,
+							0.6065,
+							9.2765
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 3412,
+							"length": 3
+						}
+					},
+					{
+						"content": "background",
+						"polygon": [
+							0.8357,
+							9.0951,
+							1.6379,
+							9.0951,
+							1.6427,
+							9.2717,
+							0.8357,
+							9.2765
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 3416,
+							"length": 10
+						}
+					},
+					{
+						"content": "incidence",
+						"polygon": [
+							1.6761,
+							9.0951,
+							2.3208,
+							9.0998,
+							2.3208,
+							9.2717,
+							1.6761,
+							9.2717
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 3427,
+							"length": 9
+						}
+					},
+					{
+						"content": "among",
+						"polygon": [
+							2.3542,
+							9.0998,
+							2.8126,
+							9.0998,
+							2.8126,
+							9.2717,
+							2.3542,
+							9.2717
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 3437,
+							"length": 5
+						}
+					},
+					{
+						"content": "children",
+						"polygon": [
+							2.8461,
+							9.0998,
+							3.4,
+							9.0998,
+							3.4,
+							9.2717,
+							2.8508,
+							9.2717
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 3443,
+							"length": 8
+						}
+					},
+					{
+						"content": "in",
+						"polygon": [
+							3.4334,
+							9.0998,
+							3.5719,
+							9.0998,
+							3.5767,
+							9.2717,
+							3.4382,
+							9.2717
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 3452,
+							"length": 2
+						}
+					},
+					{
+						"content": "the",
+						"polygon": [
+							3.6053,
+							9.0998,
+							3.825,
+							9.0998,
+							3.8298,
+							9.2717,
+							3.6101,
+							9.2717
+						],
+						"confidence": 0.998,
+						"span": {
+							"offset": 3455,
+							"length": 3
+						}
+					},
+					{
+						"content": "United",
+						"polygon": [
+							3.8584,
+							9.0998,
+							4.3216,
+							9.0998,
+							4.3216,
+							9.2717,
+							3.8632,
+							9.2717
+						],
+						"confidence": 0.996,
+						"span": {
+							"offset": 3459,
+							"length": 6
+						}
+					},
+					{
+						"content": "States",
+						"polygon": [
+							4.3551,
+							9.0998,
+							4.7562,
+							9.0998,
+							4.761,
+							9.2717,
+							4.3598,
+							9.2717
+						],
+						"confidence": 0.996,
+						"span": {
+							"offset": 3466,
+							"length": 6
+						}
+					},
+					{
+						"content": "and",
+						"polygon": [
+							4.7944,
+							9.0998,
+							5.0475,
+							9.0998,
+							5.0475,
+							9.2717,
+							4.7944,
+							9.2717
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 3473,
+							"length": 3
+						}
+					},
+					{
+						"content": "the",
+						"polygon": [
+							5.0809,
+							9.0998,
+							5.2862,
+							9.0998,
+							5.291,
+							9.2717,
+							5.0809,
+							9.2717
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 3477,
+							"length": 3
+						}
+					},
+					{
+						"content": "local",
+						"polygon": [
+							5.3197,
+							9.0998,
+							5.6539,
+							9.0998,
+							5.6587,
+							9.2717,
+							5.3244,
+							9.2717
+						],
+						"confidence": 0.996,
+						"span": {
+							"offset": 3481,
+							"length": 5
+						}
+					},
+					{
+						"content": "general",
+						"polygon": [
+							5.6874,
+							9.0998,
+							6.184,
+							9.0998,
+							6.1888,
+							9.2717,
+							5.6921,
+							9.2717
+						],
+						"confidence": 0.996,
+						"span": {
+							"offset": 3487,
+							"length": 7
+						}
+					},
+					{
+						"content": "population.",
+						"polygon": [
+							6.2174,
+							9.0998,
+							7.0244,
+							9.0998,
+							7.0292,
+							9.2765,
+							6.2222,
+							9.2717
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 3495,
+							"length": 11
+						}
+					},
+					{
+						"content": "No",
+						"polygon": [
+							7.0579,
+							9.0998,
+							7.2823,
+							9.0998,
+							7.2871,
+							9.2765,
+							7.0626,
+							9.2765
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 3507,
+							"length": 2
+						}
+					},
+					{
+						"content": "relationship",
+						"polygon": [
+							0.6112,
+							9.4865,
+							1.3944,
+							9.4818,
+							1.3992,
+							9.6584,
+							0.616,
+							9.6584
+						],
+						"confidence": 0.991,
+						"span": {
+							"offset": 3510,
+							"length": 12
+						}
+					},
+					{
+						"content": "was",
+						"polygon": [
+							1.4278,
+							9.4818,
+							1.6952,
+							9.4818,
+							1.7,
+							9.6584,
+							1.4326,
+							9.6584
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 3523,
+							"length": 3
+						}
+					},
+					{
+						"content": "identified",
+						"polygon": [
+							1.7287,
+							9.4818,
+							2.3781,
+							9.4818,
+							2.3829,
+							9.6584,
+							1.7334,
+							9.6584
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 3527,
+							"length": 10
+						}
+					},
+					{
+						"content": "between",
+						"polygon": [
+							2.4115,
+							9.4818,
+							2.9702,
+							9.4818,
+							2.975,
+							9.6584,
+							2.4163,
+							9.6584
+						],
+						"confidence": 0.996,
+						"span": {
+							"offset": 3538,
+							"length": 7
+						}
+					},
+					{
+						"content": "club",
+						"polygon": [
+							3.0037,
+							9.4818,
+							3.3093,
+							9.4818,
+							3.3093,
+							9.6536,
+							3.0084,
+							9.6584
+						],
+						"confidence": 0.986,
+						"span": {
+							"offset": 3546,
+							"length": 4
+						}
+					},
+					{
+						"content": "COVID-19",
+						"polygon": [
+							3.3427,
+							9.4818,
+							4.0924,
+							9.4818,
+							4.0924,
+							9.6536,
+							3.3427,
+							9.6536
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 3551,
+							"length": 8
+						}
+					},
+					{
+						"content": "incidence",
+						"polygon": [
+							4.1258,
+							9.4818,
+							4.7753,
+							9.4818,
+							4.7753,
+							9.6536,
+							4.1258,
+							9.6536
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 3560,
+							"length": 9
+						}
+					},
+					{
+						"content": "and",
+						"polygon": [
+							4.8087,
+							9.4818,
+							5.0522,
+							9.4818,
+							5.0522,
+							9.6536,
+							4.8087,
+							9.6536
+						],
+						"confidence": 0.998,
+						"span": {
+							"offset": 3570,
+							"length": 3
+						}
+					},
+					{
+						"content": "phase",
+						"polygon": [
+							5.0857,
+							9.4818,
+							5.4772,
+							9.4818,
+							5.4772,
+							9.6536,
+							5.0857,
+							9.6536
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 3574,
+							"length": 5
+						}
+					},
+					{
+						"content": "of",
+						"polygon": [
+							5.5107,
+							9.4818,
+							5.6587,
+							9.4818,
+							5.6587,
+							9.6536,
+							5.5107,
+							9.6536
+						],
+						"confidence": 0.998,
+						"span": {
+							"offset": 3580,
+							"length": 2
+						}
+					},
+					{
+						"content": "return",
+						"polygon": [
+							5.6921,
+							9.4818,
+							6.1028,
+							9.4818,
+							6.1028,
+							9.6489,
+							5.6921,
+							9.6536
+						],
+						"confidence": 0.996,
+						"span": {
+							"offset": 3583,
+							"length": 6
+						}
+					},
+					{
+						"content": "to",
+						"polygon": [
+							6.1362,
+							9.4818,
+							6.2747,
+							9.4865,
+							6.2699,
+							9.6489,
+							6.1362,
+							9.6489
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 3590,
+							"length": 2
+						}
+					},
+					{
+						"content": "soccer.",
+						"polygon": [
+							6.3081,
+							9.4865,
+							6.843,
+							9.4865,
+							6.8382,
+							9.6489,
+							6.3034,
+							9.6489
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 3593,
+							"length": 7
+						}
+					},
+					{
+						"content": "Youth",
+						"polygon": [
+							6.8764,
+							9.4865,
+							7.2775,
+							9.4865,
+							7.2775,
+							9.6489,
+							6.8764,
+							9.6489
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 3601,
+							"length": 5
+						}
+					},
+					{
+						"content": "soccer",
+						"polygon": [
+							7.3157,
+							9.4865,
+							7.7742,
+							9.4913,
+							7.7742,
+							9.6489,
+							7.311,
+							9.6489
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 3607,
+							"length": 6
+						}
+					},
+					{
+						"content": "clubs",
+						"polygon": [
+							0.616,
+							9.8685,
+							0.9598,
+							9.8685,
+							0.9598,
+							10.0451,
+							0.616,
+							10.0404
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 3614,
+							"length": 5
+						}
+					},
+					{
+						"content": "universally",
+						"polygon": [
+							0.9933,
+							9.8685,
+							1.7334,
+							9.8685,
+							1.7334,
+							10.0451,
+							0.9933,
+							10.0451
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 3620,
+							"length": 11
+						}
+					},
+					{
+						"content": "report",
+						"polygon": [
+							1.7716,
+							9.8685,
+							2.1871,
+							9.8685,
+							2.1823,
+							10.0499,
+							1.7669,
+							10.0451
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 3632,
+							"length": 6
+						}
+					},
+					{
+						"content": "implementing",
+						"polygon": [
+							2.2205,
+							9.8685,
+							3.1565,
+							9.8685,
+							3.1517,
+							10.0499,
+							2.2157,
+							10.0499
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 3639,
+							"length": 12
+						}
+					},
+					{
+						"content": "a",
+						"polygon": [
+							3.1899,
+							9.8685,
+							3.2615,
+							9.8685,
+							3.2567,
+							10.0499,
+							3.1851,
+							10.0499
+						],
+						"confidence": 0.995,
+						"span": {
+							"offset": 3652,
+							"length": 1
+						}
+					},
+					{
+						"content": "number",
+						"polygon": [
+							3.2949,
+							9.8685,
+							3.825,
+							9.8685,
+							3.825,
+							10.0451,
+							3.2902,
+							10.0499
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 3654,
+							"length": 6
+						}
+					},
+					{
+						"content": "of",
+						"polygon": [
+							3.8584,
+							9.8685,
+							3.9969,
+							9.8685,
+							3.9969,
+							10.0451,
+							3.8584,
+							10.0451
+						],
+						"confidence": 0.997,
+						"span": {
+							"offset": 3661,
+							"length": 2
+						}
+					},
+					{
+						"content": "risk",
+						"polygon": [
+							4.0351,
+							9.8685,
+							4.2882,
+							9.8685,
+							4.2834,
+							10.0451,
+							4.0303,
+							10.0451
+						],
+						"confidence": 0.991,
+						"span": {
+							"offset": 3664,
+							"length": 4
+						}
+					},
+					{
+						"content": "reduction",
+						"polygon": [
+							4.3216,
+							9.8685,
+							4.9567,
+							9.8685,
+							4.9567,
+							10.0451,
+							4.3216,
+							10.0451
+						],
+						"confidence": 0.994,
+						"span": {
+							"offset": 3669,
+							"length": 9
+						}
+					},
+					{
+						"content": "procedures.",
+						"polygon": [
+							4.9902,
+							9.8685,
+							5.7781,
+							9.8733,
+							5.7781,
+							10.0356,
+							4.9902,
+							10.0404
+						],
+						"confidence": 0.993,
+						"span": {
+							"offset": 3679,
+							"length": 11
+						}
+					}
+				],
+				"lines": [
+					{
+						"content": "medRxiv preprint doi: https://doi.org/10.1101/2020.09.25.20201616; this version posted September 27, 2020. The copyright holder for this",
+						"polygon": [
+							0.8548,
+							0.0239,
+							7.6452,
+							0.0239,
+							7.6452,
+							0.1432,
+							0.8548,
+							0.148
+						],
+						"spans": [
+							{
+								"offset": 1079,
+								"length": 136
+							}
+						]
+					},
+					{
+						"content": "preprint (which was not certified by peer review) is the author/funder, who has granted medRxiv a license to display the preprint in perpetuity.",
+						"polygon": [
+							0.6829,
+							0.1337,
+							7.8124,
+							0.1337,
+							7.8124,
+							0.2674,
+							0.6829,
+							0.2626
+						],
+						"spans": [
+							{
+								"offset": 1216,
+								"length": 144
+							}
+						]
+					},
+					{
+						"content": "It is made available under a CC-BY-NC-ND 4.0 International license .",
+						"polygon": [
+							2.5404,
+							0.3485,
+							5.95,
+							0.3485,
+							5.95,
+							0.4774,
+							2.5404,
+							0.4774
+						],
+						"spans": [
+							{
+								"offset": 1361,
+								"length": 68
+							}
+						]
+					},
+					{
+						"content": "ABSTRACT",
+						"polygon": [
+							0.6112,
+							0.6398,
+							1.4947,
+							0.6398,
+							1.4947,
+							0.7878,
+							0.6112,
+							0.7878
+						],
+						"spans": [
+							{
+								"offset": 1430,
+								"length": 8
+							}
+						]
+					},
+					{
+						"content": "Purpose: The purpose of this study was to determine the case and incidence rates of COVID-19 among",
+						"polygon": [
+							0.6112,
+							1.0169,
+							7.5545,
+							1.0169,
+							7.5545,
+							1.1984,
+							0.6112,
+							1.2031
+						],
+						"spans": [
+							{
+								"offset": 1439,
+								"length": 98
+							}
+						]
+					},
+					{
+						"content": "youth soccer players and evaluate the relationship with background COVID-19 risk and phase of return to",
+						"polygon": [
+							0.6017,
+							1.4036,
+							7.6978,
+							1.3989,
+							7.6978,
+							1.5803,
+							0.6017,
+							1.5851
+						],
+						"spans": [
+							{
+								"offset": 1538,
+								"length": 103
+							}
+						]
+					},
+					{
+						"content": "play.",
+						"polygon": [
+							0.5921,
+							1.7999,
+							0.9551,
+							1.7904,
+							0.9551,
+							1.967,
+							0.5921,
+							1.967
+						],
+						"spans": [
+							{
+								"offset": 1642,
+								"length": 5
+							}
+						]
+					},
+					{
+						"content": "Methods: Surveys were distributed to soccer clubs throughout the country regarding their phase of return to",
+						"polygon": [
+							0.6065,
+							2.1675,
+							7.841,
+							2.1675,
+							7.841,
+							2.3537,
+							0.6065,
+							2.3442
+						],
+						"spans": [
+							{
+								"offset": 1648,
+								"length": 107
+							}
+						]
+					},
+					{
+						"content": "soccer (individual only, group non-contact, group contact) and date of reinitiation, number of players, cases",
+						"polygon": [
+							0.6017,
+							2.5543,
+							7.7885,
+							2.5543,
+							7.7885,
+							2.7357,
+							0.6017,
+							2.7357
+						],
+						"spans": [
+							{
+								"offset": 1756,
+								"length": 109
+							}
+						]
+					},
+					{
+						"content": "of COVID-19, and risk reduction procedures that were being implemented. Overall case and incidence rates",
+						"polygon": [
+							0.6112,
+							2.9314,
+							7.8649,
+							2.9314,
+							7.8649,
+							3.1128,
+							0.6112,
+							3.1176
+						],
+						"spans": [
+							{
+								"offset": 1866,
+								"length": 104
+							}
+						]
+					},
+					{
+						"content": "were compared to national pediatric data and county data from the prior 10 weeks where available. Finally,",
+						"polygon": [
+							0.6017,
+							3.3277,
+							7.7789,
+							3.3181,
+							7.7789,
+							3.49,
+							0.6017,
+							3.5043
+						],
+						"spans": [
+							{
+								"offset": 1971,
+								"length": 106
+							}
+						]
+					},
+					{
+						"content": "a negative binomial regression model was developed to predict club COVID-19 cases with local incidence",
+						"polygon": [
+							0.6112,
+							3.7096,
+							7.7312,
+							3.7001,
+							7.7312,
+							3.8767,
+							0.6112,
+							3.8911
+						],
+						"spans": [
+							{
+								"offset": 2078,
+								"length": 102
+							}
+						]
+					},
+					{
+						"content": "rate and phase of return as covariates and the log of club player-days as an offset.",
+						"polygon": [
+							0.6065,
+							4.0916,
+							6.0407,
+							4.0868,
+							6.0407,
+							4.2635,
+							0.6065,
+							4.2682
+						],
+						"spans": [
+							{
+								"offset": 2181,
+								"length": 84
+							}
+						]
+					},
+					{
+						"content": "Results: 129 clubs responded, of whom 124 had reinitiated soccer, representing 91,007 players with a",
+						"polygon": [
+							0.6017,
+							4.4688,
+							7.4399,
+							4.4688,
+							7.4399,
+							4.6549,
+							0.6017,
+							4.6454
+						],
+						"spans": [
+							{
+								"offset": 2266,
+								"length": 100
+							}
+						]
+					},
+					{
+						"content": "median duration of 73 days (IQR: 53-83 days) since restarting. Of the 119 that had progressed to group",
+						"polygon": [
+							0.6017,
+							4.8555,
+							7.5593,
+							4.8602,
+							7.5593,
+							5.0369,
+							0.6017,
+							5.0273
+						],
+						"spans": [
+							{
+								"offset": 2367,
+								"length": 102
+							}
+						]
+					},
+					{
+						"content": "activities, 218 cases of COVID-19 were reported among 85,861 players. Youth soccer players had a lower",
+						"polygon": [
+							0.6065,
+							5.2374,
+							7.7646,
+							5.2374,
+							7.7646,
+							5.4188,
+							0.6065,
+							5.4188
+						],
+						"spans": [
+							{
+								"offset": 2470,
+								"length": 102
+							}
+						]
+					},
+					{
+						"content": "case rate and incidence rate than the national rate for children in the US (254 v. 477 cases per 100,000; IRR",
+						"polygon": [
+							0.6065,
+							5.6194,
+							7.8076,
+							5.6194,
+							7.8076,
+							5.796,
+							0.6065,
+							5.796
+						],
+						"spans": [
+							{
+								"offset": 2573,
+								"length": 109
+							}
+						]
+					},
+					{
+						"content": "= 0.511, 95% CI = [0.40-0.57], p<0.001) and the general population from the counties in which soccer clubs",
+						"polygon": [
+							0.5969,
+							5.9965,
+							7.8506,
+							5.9965,
+							7.8506,
+							6.1827,
+							0.5969,
+							6.1875
+						],
+						"spans": [
+							{
+								"offset": 2683,
+								"length": 106
+							}
+						]
+					},
+					{
+						"content": "were based where data was available (268 v. 864 cases per 100,000; IRR = 0.202 [0.19-0.21], p<0.001).",
+						"polygon": [
+							0.6065,
+							6.3832,
+							7.564,
+							6.3832,
+							7.564,
+							6.5694,
+							0.6065,
+							6.5647
+						],
+						"spans": [
+							{
+								"offset": 2790,
+								"length": 101
+							}
+						]
+					},
+					{
+						"content": "After adjusting for local COVID-19 incidence, there was no relationship between club COVID-19 incidence",
+						"polygon": [
+							0.6065,
+							6.7652,
+							7.8649,
+							6.7652,
+							7.8649,
+							6.9418,
+							0.6065,
+							6.9466
+						],
+						"spans": [
+							{
+								"offset": 2892,
+								"length": 103
+							}
+						]
+					},
+					{
+						"content": "and phase of return (non-contact: ß=0.35+0.67, p=0.61; contact: ß=0.18+0.67, p=0.79). No cases were",
+						"polygon": [
+							0.6065,
+							7.1662,
+							7.5115,
+							7.1662,
+							7.5115,
+							7.3429,
+							0.6065,
+							7.3524
+						],
+						"spans": [
+							{
+								"offset": 2996,
+								"length": 99
+							}
+						]
+					},
+					{
+						"content": "reported to have resulted in hospitalization or death. 100% of clubs reported having a plan in place to",
+						"polygon": [
+							0.6065,
+							7.5625,
+							7.4256,
+							7.5625,
+							7.4256,
+							7.7487,
+							0.6065,
+							7.7487
+						],
+						"spans": [
+							{
+								"offset": 3096,
+								"length": 103
+							}
+						]
+					},
+					{
+						"content": "reduce the risk of COVID-19 and utilizing multiple different risk reduction procedures (median 8, IQR 6-",
+						"polygon": [
+							0.5969,
+							7.9444,
+							7.6739,
+							7.9492,
+							7.6739,
+							8.1306,
+							0.5921,
+							8.1259
+						],
+						"spans": [
+							{
+								"offset": 3200,
+								"length": 104
+							}
+						]
+					},
+					{
+						"content": "10).",
+						"polygon": [
+							0.6208,
+							8.3455,
+							0.8834,
+							8.3312,
+							0.8882,
+							8.503,
+							0.6208,
+							8.5078
+						],
+						"spans": [
+							{
+								"offset": 3305,
+								"length": 4
+							}
+						]
+					},
+					{
+						"content": "Conclusions: The incidence of COVID-19 among youth soccer athletes is relatively low when compared to",
+						"polygon": [
+							0.616,
+							8.7083,
+							7.8124,
+							8.7131,
+							7.8124,
+							8.8898,
+							0.616,
+							8.8802
+						],
+						"spans": [
+							{
+								"offset": 3310,
+								"length": 101
+							}
+						]
+					},
+					{
+						"content": "the background incidence among children in the United States and the local general population. No",
+						"polygon": [
+							0.6065,
+							9.0951,
+							7.2823,
+							9.0951,
+							7.2823,
+							9.2717,
+							0.6065,
+							9.2717
+						],
+						"spans": [
+							{
+								"offset": 3412,
+								"length": 97
+							}
+						]
+					},
+					{
+						"content": "relationship was identified between club COVID-19 incidence and phase of return to soccer. Youth soccer",
+						"polygon": [
+							0.6112,
+							9.477,
+							7.7742,
+							9.477,
+							7.7742,
+							9.6489,
+							0.6112,
+							9.6536
+						],
+						"spans": [
+							{
+								"offset": 3510,
+								"length": 103
+							}
+						]
+					},
+					{
+						"content": "clubs universally report implementing a number of risk reduction procedures.",
+						"polygon": [
+							0.6112,
+							9.8637,
+							5.7829,
+							9.8637,
+							5.7829,
+							10.0451,
+							0.6112,
+							10.0404
+						],
+						"spans": [
+							{
+								"offset": 3614,
+								"length": 76
+							}
+						]
+					}
+				],
+				"spans": [
+					{
+						"offset": 1079,
+						"length": 2611
+					}
+				],
+				"kind": "document"
+			}
+		],
+		"tables": [],
+		"styles": [],
+		"documents": [
+			{
+				"docType": "Abstract",
+				"boundingRegions": [
+					{
+						"pageNumber": 1,
+						"polygon": [
+							0,
+							0,
+							8.5,
+							0,
+							8.5,
+							11,
+							0,
+							11
+						]
+					},
+					{
+						"pageNumber": 2,
+						"polygon": [
+							0,
+							0,
+							8.5,
+							0,
+							8.5,
+							11,
+							0,
+							11
+						]
+					}
+				],
+				"fields": {
+					"Abstract": {
+						"type": "string",
+						"valueString": "ABSTRACT Purpose: The purpose of this study was determine case incidence rates of COVID-19 among youth soccer players and evaluate relationship with background COVID-19 risk and phase of return to play.",
+						"content": "ABSTRACT\nPurpose: The purpose of this study was\ndetermine\ncase\nincidence rates of COVID-19 among youth soccer players and evaluate\nrelationship with background COVID-19 risk and phase of return to play.",
+						"boundingRegions": [
+							{
+								"pageNumber": 2,
+								"polygon": [
+									0.5969,
+									0.6398,
+									7.693,
+									0.6398,
+									7.693,
+									1.9718,
+									0.5969,
+									1.9718
+								]
+							}
+						],
+						"confidence": 0.62,
+						"spans": [
+							{
+								"offset": 1430,
+								"length": 47
+							},
+							{
+								"offset": 1481,
+								"length": 9
+							},
+							{
+								"offset": 1495,
+								"length": 4
+							},
+							{
+								"offset": 1504,
+								"length": 67
+							},
+							{
+								"offset": 1576,
+								"length": 71
+							}
+						]
+					}
+				},
+				"confidence": 0.987,
+				"spans": [
+					{
+						"offset": 0,
+						"length": 3690
+					}
+				]
+			}
+		]
+	}
+}
